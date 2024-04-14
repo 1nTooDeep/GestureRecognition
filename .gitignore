@@ -1,0 +1,13 @@
+# ignore fold
+checkpoints/
+testimg/
+mbin/
+.idea/
+__pycache__/
+gesture/
+gesture/*
+
+*.log
+*.ipynb
+*.pyc
+*.pth

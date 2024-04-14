@@ -1,0 +1,34 @@
+{
+    "classes": [
+        "Sliding Two Fingers Up",
+        "Sliding Two Fingers Left",
+        "Sliding Two Fingers Right",
+        "Sliding Two Fingers Down",
+        "Zooming In With Two Fingers",
+        "Zooming Out With Two Fingers",
+        "Swiping Right",
+        "Swiping Up",
+        "Swiping Down",
+        "Doing other things",
+        "No gesture"
+    ],
+    "data_config": {
+        "train_data_path": "/home/weii/Workspace/Gabor-C3D/data/train",
+        "test_data_path": "/home/weii/Workspace/Gabor-C3D/data/test",
+        "validation_data_path": "/home/weii/Workspace/Gabor-C3D/data/validation",
+        "train_data_csv": "/home/weii/Workspace/Gabor-C3D/data/train.csv",
+        "test_data_csv": "/home/weii/Workspace/Gabor-C3D/data/test-ans.csv",
+        "validation_data_csv": "/home/weii/Workspace/Gabor-C3D/data/validation.csv"
+    },
+    "num_classes": 11,
+    "torch_config": {
+        "batch_size": 64,
+        "num_epochs": 50,
+        "shuffle": "True",
+        "lr": 3e-5,
+        "weight_decay": 0.0001,
+        "momentum": 0.9,
+        "num_workers": 12,
+        "checkpoint_path": "/home/weii/Workspace/GestureRecognition/checkpoints/"
+    }
+}
