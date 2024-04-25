@@ -14,6 +14,10 @@ class Config():
             'Swiping Right': 6,
             'Swiping Up': 7,
             'Swiping Down': 8,
-            'Doing other things': 9,
-            'No gesture': 10
+            'Thumb Up': 9,
+            'Thumb Down': 10,
+            'Stop Sign': 11,
+            'Drumming Fingers': 12,
+            'Doing other things': 13,
+            'No gesture': 14
         }

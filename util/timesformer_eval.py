@@ -4,6 +4,7 @@ import torch
 import logging
 
 def eval(model, dataLoader, DEVICE, logger):
+    print(f"logger is :{logger is None}")
     model.to(DEVICE)
     model.eval()
     total = 0
@@ -37,8 +38,13 @@ def eval(model, dataLoader, DEVICE, logger):
         ("Precision", precision),
         ("F1 Score", f1),
     ]
-    logger.info("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
-    logger.info("\nConfusion Matrix:")
-    logger.info("\n"+tabulate(cm, headers=["True Label", "Predicted Label"], tablefmt="grid"))
+    if logger is None:
+        print("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
+        print("\nConfusion Matrix:")
+        print("\n"+tabulate(cm, headers=["True Label", "Predicted Label"], tablefmt="grid"))
+    else:
+        logger.info("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
+        logger.info("\nConfusion Matrix:")
+        logger.info("\n"+tabulate(cm, headers=["True Label", "Predicted Label"], tablefmt="grid"))
     # 返回计算结果
     return accuracy, recall, precision, f1, cm

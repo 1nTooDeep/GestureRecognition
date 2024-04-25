@@ -4,6 +4,7 @@ import logging
 from tabulate import tabulate
 import time
 from .eval import eval
+from torch.cuda.amp import autocast,GradScaler
 
 def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, validationLoader,logger, checkpointpath, DEVICE,
           LOG_INTERVAL=200 ):
@@ -22,7 +23,6 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
     # 优化器和损失函数配置
     optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
     loss_fn = nn.CrossEntropyLoss()
-
     # 模型进入训练模式
     model.train()
     # 初始化统计变量
@@ -45,7 +45,7 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
             # 清空梯度
             optimizer.zero_grad()
             # 前向传播
-            output = model(inputs)
+            output = model(inputs.to(torch.float32))
             # 计算损失
             loss = loss_fn(output, labels)
             # 反向传播

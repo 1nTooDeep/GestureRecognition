@@ -14,7 +14,7 @@ def eval(model, dataLoader, DEVICE, logger):
         for val_data, val_target in dataLoader:
             val_data, val_target = val_data.to(DEVICE), val_target.to(DEVICE)
             output = model(val_data)
-            _, predicted = torch.max(output.data, 1)
+            _, predicted = torch.max(output, 1)
 
             total += val_target.size(0)
             correct += (predicted == val_target).sum().item()
@@ -37,11 +37,8 @@ def eval(model, dataLoader, DEVICE, logger):
         ("Precision", precision),
         ("F1 Score", f1),
     ]
-    print(tabulate(data, headers=headers, tablefmt="pretty"))
-    logger.info(tabulate(data, headers=headers, tablefmt="pretty"))
-    print("\nConfusion Matrix:")
+    logger.info("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
     logger.info("\nConfusion Matrix:")
-    print(tabulate(cm, headers=["True Label", "Predicted Label"], tablefmt="grid"))
-    logger.info(tabulate(cm, headers=["True Label", "Predicted Label"], tablefmt="grid"))
+    logger.info("\n"+tabulate(cm, headers=["True Label", "Predicted Label"], tablefmt="grid"))
     # 返回计算结果
     return accuracy, recall, precision, f1, cm

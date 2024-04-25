@@ -33,11 +33,8 @@ class GestureDataSet(Dataset):
         self.data = data['num']
         self.labels = data['label']
         self.len = len(self.data)
-        self.mean = 106.4046
-        self.std = 67.4747
         self.transform = Compose([
             ToTensor(),
-            Normalize(mean=[self.mean], std=[self.std]),
             Resize((112, 112))
         ])
         print(f"Size of GestureDataSet is {self.len}.")
@@ -50,15 +47,15 @@ class GestureDataSet(Dataset):
             for img in img_file:
                 names.append(os.path.join(img_path, img))
             imgs = [cv2.imread(name, cv2.IMREAD_GRAYSCALE) for name in names]
-            imgs = imgs[:30] if len(imgs) > 30 else imgs + [imgs[-1]] * (30 - len(imgs))
+            # imgs = imgs[:30] if len(imgs) > 30 else imgs + [imgs[-1]] * (30 - len(imgs))
             # zoom img to 112 * 112
-            imgs = [cv2.resize(img, (112, 112)) for img in imgs]
+            # imgs = [cv2.resize(img, (112, 112)) for img in imgs]
             # imgs = [(img.astype(np.float32) - self.mean) / self.std for img in imgs]
-            imgs = [gabor_filter_cv2(img) for img in imgs]
-            imgs = [torch.from_numpy(np.array(img)) for img in imgs]
-            data = torch.stack(tensors=imgs, dim=0)
-            data = torch.transpose(data, 0, 1)
-            return data, self.labels[idx]
+            # imgs = [gabor_filter_cv2(img) for img in imgs]
+            # imgs = [torch.from_numpy(np.array(img)) for img in imgs]
+            # data = torch.stack(tensors=imgs, dim=0)
+            # data = torch.transpose(data, 0, 1)
+            return imgs, self.labels[idx]
         except Exception:
             raise Exception("No images found in {}".format(img_path))
 

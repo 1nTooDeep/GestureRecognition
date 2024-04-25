@@ -37,11 +37,10 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
         for i, (inputs, labels) in enumerate(trainLoader):
             # 记录批次开始时间
             batch_start_time = time.time()
-
+            
             # 数据转移到指定设备
             inputs = inputs.to(DEVICE)
             labels = labels.to(DEVICE)
-
             # 清空梯度
             optimizer.zero_grad()
             # 前向传播

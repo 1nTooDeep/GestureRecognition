@@ -9,24 +9,28 @@
         "Swiping Right",
         "Swiping Up",
         "Swiping Down",
+        "Thumb Up",
+        "Thumb down",
+        "Stop Sign",
+        "Drumming Fingers",
         "Doing other things",
         "No gesture"
     ],
     "data_config": {
-        "train_data_path": "/home/weii/Workspace/Gabor-C3D/data/train",
-        "test_data_path": "/home/weii/Workspace/Gabor-C3D/data/test",
-        "validation_data_path": "/home/weii/Workspace/Gabor-C3D/data/validation",
-        "train_data_csv": "/home/weii/Workspace/Gabor-C3D/data/train.csv",
-        "test_data_csv": "/home/weii/Workspace/Gabor-C3D/data/test-ans.csv",
-        "validation_data_csv": "/home/weii/Workspace/Gabor-C3D/data/validation.csv"
+        "train_data_path": "/home/weii/Workspace/dataset/20bn-jester-v1",
+        "test_data_path": "/home/weii/Workspace/dataset/20bn-jester-v1",
+        "validation_data_path": "/home/weii/Workspace/dataset/20bn-jester-v1",
+        "train_data_csv": "/home/weii/Workspace/GestureRecognition/csv/train.csv",
+        "test_data_csv": "/home/weii/Workspace/GestureRecognition/csv/test-answers.csv",
+        "validation_data_csv": "/home/weii/Workspace/GestureRecognition/csv/validation.csv"
     },
-    "num_classes": 11,
+    "num_classes": 15,
     "torch_config": {
-        "batch_size": 64,
+        "batch_size": 24,
         "num_epochs": 50,
         "shuffle": "True",
-        "lr": 3e-5,
-        "weight_decay": 0.0001,
+        "lr": 6e-05,
+        "weight_decay": 1e-6,
         "momentum": 0.9,
         "num_workers": 12,
         "checkpoint_path": "/home/weii/Workspace/GestureRecognition/checkpoints/"

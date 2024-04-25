@@ -6,6 +6,9 @@ mbin/
 __pycache__/
 gesture/
 gesture/*
+log/
+scriptmodel/*
+scriptmodel/
 
 *.log
 *.ipynb

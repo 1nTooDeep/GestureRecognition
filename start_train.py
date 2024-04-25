@@ -9,13 +9,22 @@ from dataset import prepare_no_gabor_datasets
 from util.train import train
 from util.eval import eval
 from util.test import test
+from tabulate import tabulate
+import numpy as np
+from datetime import datetime
+
+
 if __name__ == '__main__':
     torch.set_default_dtype(torch.float32)
+    seed = 1314
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    np.random.seed(seed)
     # Logger setting
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     log = logging.getLogger(__name__)
     log.setLevel(logging.INFO)
-    file_handler = logging.FileHandler('./C3D.log')
+    file_handler = logging.FileHandler(f'./C3D_{str(datetime.time(datetime.now()))[:8]}.log')
     console_handler = logging.StreamHandler()
     file_handler.setLevel(logging.INFO)
     file_handler.setLevel(logging.DEBUG)
@@ -52,6 +61,7 @@ if __name__ == '__main__':
                                                    shuffle=True, num_workers=config.config['torch_config']['num_workers'])
     lr = config.config['torch_config']['lr']
     weight_decay = config.config['torch_config']['weight_decay']
+    log.info(f"Using config:\n lr:{lr},\nweight_decay:{weight_decay},\nbatch_size:{batch_size},\nnum_epoch:{num_epoch},\ncheckpointpath:{checkpointpath}")
     train(model,current_epoch, num_epoch, lr, weight_decay, trainLoader,validationLoader, log, checkpointpath,DEVICE,LOG_INTERVAL=100)
 
     print(f"Save model {config.config['torch_config']['checkpoint_path'] + f'checkpoint_{epoch}.pth'}")
