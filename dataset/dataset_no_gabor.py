@@ -5,9 +5,38 @@ import pandas as pd
 import torch
 
 from torch.utils.data import Dataset
-from torchvision.transforms import Compose, ToTensor, Normalize, Resize,Lambda
+from torchvision.transforms import Compose, ToTensor, Normalize, Resize,Lambda,CenterCrop
 from torch.utils.data import DataLoader
 from config import Config
+import random
+def frame_extract(input_frames):
+        """
+        Given a list of input frames, randomly selects 30 unique frames if the list length is greater than 30.
+        If the list length is less than or equal to 30, some frames may be duplicated while preserving their ascending order.
+
+        Args:
+            input_frames (list): The list of input frames.
+
+        Returns:
+            list: A new list containing 30 frames according to the specified conditions.
+        """
+
+        # Copy and sort the input list in ascending order
+        sorted_frames = sorted(input_frames.copy())
+
+        # If the list length is greater than 30, randomly select 30 unique frames
+        if len(sorted_frames) > 30:
+            selected_frames = random.sample(sorted_frames, 30)
+            return sorted(selected_frames)
+
+        # If the list length is less than or equal to 30, duplicate frames as needed to reach a length of 30
+        result = []
+        for _ in range(30 - len(input_frames)):
+            selected_frame = random.choice(sorted_frames)
+            result.append(selected_frame)
+        result = sorted(result + input_frames)
+        return result
+        
 
 class RescaleToUnitRange(torch.nn.Module):
     def forward(self, x):
@@ -22,8 +51,8 @@ class GestureDataSetNoGabor(Dataset):
         self.len = len(self.data)
         self.transform = Compose([
             ToTensor(),
-            Resize((112, 112)),
-            addGuassianNoise(mean=0,std=0.05)
+            CenterCrop((112, 112)),
+            addGuassianNoise(mean=0,std=0.1)
 
         ])
 
@@ -31,23 +60,22 @@ class GestureDataSetNoGabor(Dataset):
         try:
             img_path = os.path.join(self.data_path, str(self.data[idx]))
             img_file = os.listdir(img_path)
+            img_file = sorted(img_file)
+            img_file = frame_extract(img_file)
             names = []
             for img in img_file:
                 names.append(os.path.join(img_path, img)) 
             imgs = [cv2.imread(name, cv2.IMREAD_COLOR) for name in names]
-            
-            imgs = imgs[8:]
-            imgs = imgs[0:30] if len(imgs) > 30 else imgs + [imgs[-1]] * (30 - len(imgs))
-            
             imgs = [self.transform(img) for img in imgs]
             imgs = torch.stack(tensors=imgs, dim=0)
         except:
             print(self.data[idx])
+            exit()
         return imgs, self.labels[idx]
 
     def __len__(self):
         return self.len
-
+    
 
 class addGuassianNoise():
     def __init__(self, mean = 0.0,std = 0.1):

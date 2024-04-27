@@ -5,7 +5,7 @@ from config import Config
 from model import Timesformer
 from dataset import prepare_no_gabor_datasets
 from util.timesformer_train import train
-from util.eval import eval
+from util.timesformer_eval import eval
 import numpy as np
 from datetime import datetime
 
@@ -46,11 +46,11 @@ if __name__ == '__main__':
         best_checkpoint_epoch = checkpoints[-1]
         model_path = os.path.join(checkpointpath,f'{best_checkpoint_epoch}')
         print(model_path)
-        model.load_state_dict(torch.load(model_path, map_location='cpu'))
+        model.load_state_dict(torch.load('/home/weii/Workspace/GestureRecognition/checkpoints/timesformer-15-old/checkpoint_27.pth'))
         print(f"Loading {best_checkpoint_epoch}.")
 
         log.info(f"Loading {best_checkpoint_epoch}.")
-        current_epoch = int(best_checkpoint_epoch.replace("checkpoint_", "").replace(".pth", "")) + 1
+        # current_epoch = int(best_checkpoint_epoch.replace("checkpoint_", "").replace(".pth", "")) + 1
 
     trainSet,validationSet,testSet = prepare_no_gabor_datasets(config)
     trainLoader = torch.utils.data.DataLoader(trainSet, batch_size=batch_size,

@@ -29,7 +29,7 @@
         "batch_size": 24,
         "num_epochs": 50,
         "shuffle": "True",
-        "lr": 6e-05,
+        "lr": 7e-05,
         "weight_decay": 1e-6,
         "momentum": 0.9,
         "num_workers": 12,

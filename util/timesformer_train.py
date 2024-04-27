@@ -22,7 +22,7 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
     model.to(DEVICE)
     # 优化器和损失函数配置
     optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
-    loss_fn = nn.CrossEntropyLoss()
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer,T_max=30)
     # 模型进入训练模式
     model.train()
     # 初始化统计变量
@@ -37,7 +37,6 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
         for i, (inputs, labels) in enumerate(trainLoader):
             # 记录批次开始时间
             batch_start_time = time.time()
-            
             # 数据转移到指定设备
             inputs = inputs.to(DEVICE)
             labels = labels.to(DEVICE)
@@ -49,7 +48,7 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
             output.loss.backward()
             # 参数更新
             optimizer.step()
-            
+            scheduler.step()
             # 更新统计变量
             loss_value = output.loss.item()
             total_loss += loss_value * inputs.size(0)

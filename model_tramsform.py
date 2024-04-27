@@ -10,13 +10,13 @@ if __name__ == "__main__":
     model_pt = 'C3D.pt'
 
     model = Timesformer()
-    model.load_state_dict(torch.load('checkpoints/timesformer/checkpoint_38.pth', map_location=device))
+    model.load_state_dict(torch.load('./checkpoints/timesformer-15/checkpoint_47.pth', map_location=device))
 
 
     model.to(device)
     model.eval()
 
-    input_tensor = torch.rand(1, 3, 30, 112, 112)
+    input_tensor = torch.rand(1, 30, 3, 112, 112)
 
     traced_script_module = torch.jit.trace(model, input_tensor.to(torch.float32))
     traced_script_module_optimized = optimize_for_mobile(traced_script_module)
