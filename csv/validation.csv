@@ -11,7 +11,6 @@ num;label
 140878;Thumb Up
 90764;Sliding Two Fingers Left
 140793;Sliding Two Fingers Left
-46546;Drumming Fingers
 90700;Zooming In With Two Fingers
 58637;Doing other things
 52721;Swiping Right
@@ -43,7 +42,6 @@ num;label
 44948;Sliding Two Fingers Right
 17782;Doing other things
 72284;No gesture
-59741;Drumming Fingers
 142576;Doing other things
 49358;Doing other things
 97051;Doing other things
@@ -56,7 +54,6 @@ num;label
 99155;Sliding Two Fingers Down
 115054;Sliding Two Fingers Left
 9191;Swiping Up
-19104;Drumming Fingers
 133388;Doing other things
 37166;Doing other things
 23850;Sliding Two Fingers Left
@@ -81,14 +78,12 @@ num;label
 124080;Swiping Down
 2469;Swiping Down
 21351;No gesture
-16185;Drumming Fingers
 124399;Swiping Down
 14887;Stop Sign
 122556;Stop Sign
 140757;Zooming In With Two Fingers
 57278;Sliding Two Fingers Left
 78830;Zooming In With Two Fingers
-36110;Drumming Fingers
 95217;Thumb Up
 77268;Sliding Two Fingers Up
 83654;Sliding Two Fingers Left
@@ -109,9 +104,7 @@ num;label
 108619;Thumb Up
 89416;No gesture
 114547;No gesture
-25763;Drumming Fingers
 55789;Swiping Down
-56534;Drumming Fingers
 15440;Sliding Two Fingers Down
 126719;Sliding Two Fingers Up
 113507;Doing other things
@@ -126,17 +119,14 @@ num;label
 441;Sliding Two Fingers Up
 72769;Zooming In With Two Fingers
 72447;Sliding Two Fingers Left
-31365;Drumming Fingers
 87018;Sliding Two Fingers Right
 58113;Sliding Two Fingers Up
 82097;Doing other things
 142012;Swiping Up
-86033;Drumming Fingers
 92863;No gesture
 140797;Sliding Two Fingers Down
 38358;Zooming In With Two Fingers
 124240;Swiping Right
-78605;Drumming Fingers
 27826;Doing other things
 61271;Doing other things
 147804;Stop Sign
@@ -156,11 +146,9 @@ num;label
 81236;Sliding Two Fingers Right
 115445;Swiping Up
 17425;No gesture
-60729;Drumming Fingers
 75099;Sliding Two Fingers Up
 11115;Thumb Up
 38691;Zooming Out With Two Fingers
-61688;Drumming Fingers
 28092;Doing other things
 72158;Swiping Up
 144546;Doing other things
@@ -180,11 +168,8 @@ num;label
 3165;Sliding Two Fingers Up
 71164;Stop Sign
 11785;Zooming In With Two Fingers
-41490;Drumming Fingers
 14148;Sliding Two Fingers Right
-20629;Drumming Fingers
 140579;Sliding Two Fingers Up
-146625;Drumming Fingers
 6175;Sliding Two Fingers Right
 25476;Swiping Down
 132905;Zooming Out With Two Fingers
@@ -211,13 +196,11 @@ num;label
 80523;Sliding Two Fingers Right
 134744;Doing other things
 137535;No gesture
-48143;Drumming Fingers
 40743;Sliding Two Fingers Left
 18552;Sliding Two Fingers Up
 12177;Thumb Down
 47827;Swiping Up
 116246;Zooming Out With Two Fingers
-136896;Drumming Fingers
 62586;Thumb Up
 81928;Doing other things
 145203;Swiping Right
@@ -279,7 +262,6 @@ num;label
 100526;Stop Sign
 115635;Zooming In With Two Fingers
 10513;Doing other things
-120080;Drumming Fingers
 119689;Swiping Up
 128664;Zooming In With Two Fingers
 115040;Thumb Down
@@ -306,7 +288,6 @@ num;label
 73494;Swiping Up
 56090;Sliding Two Fingers Left
 146868;Stop Sign
-57216;Drumming Fingers
 73850;Zooming Out With Two Fingers
 74154;Sliding Two Fingers Left
 105470;Thumb Up
@@ -317,10 +298,8 @@ num;label
 32605;No gesture
 111419;Sliding Two Fingers Right
 10892;Sliding Two Fingers Left
-98544;Drumming Fingers
 100373;Thumb Up
 146797;No gesture
-19150;Drumming Fingers
 45072;Zooming In With Two Fingers
 98896;Thumb Down
 64119;Sliding Two Fingers Down
@@ -342,7 +321,6 @@ num;label
 120463;Swiping Up
 12822;No gesture
 79131;Sliding Two Fingers Left
-136479;Drumming Fingers
 97038;Sliding Two Fingers Up
 36228;Swiping Up
 110367;Sliding Two Fingers Left
@@ -378,7 +356,6 @@ num;label
 14106;Doing other things
 23274;Thumb Down
 127896;Thumb Down
-34223;Drumming Fingers
 117978;Thumb Up
 130538;No gesture
 25172;Sliding Two Fingers Left
@@ -395,7 +372,6 @@ num;label
 95044;Doing other things
 89586;Sliding Two Fingers Up
 45417;Zooming In With Two Fingers
-66194;Drumming Fingers
 31313;Doing other things
 2920;Thumb Down
 65873;Sliding Two Fingers Left
@@ -419,7 +395,6 @@ num;label
 127895;Sliding Two Fingers Right
 135997;Thumb Up
 4208;Thumb Down
-69170;Drumming Fingers
 85523;Zooming In With Two Fingers
 14367;Swiping Right
 52967;No gesture
@@ -474,7 +449,6 @@ num;label
 14054;Doing other things
 78991;No gesture
 116489;Doing other things
-39436;Drumming Fingers
 22480;Doing other things
 130761;Doing other things
 9539;No gesture
@@ -491,7 +465,6 @@ num;label
 29779;Sliding Two Fingers Right
 106908;Doing other things
 53692;Swiping Right
-134213;Drumming Fingers
 141778;Stop Sign
 74058;Sliding Two Fingers Down
 132686;Sliding Two Fingers Right
@@ -531,11 +504,9 @@ num;label
 58951;Sliding Two Fingers Left
 46428;Doing other things
 23662;Thumb Up
-71137;Drumming Fingers
 140312;Sliding Two Fingers Down
 54211;Stop Sign
 139507;Swiping Right
-78609;Drumming Fingers
 117493;Swiping Down
 56599;Zooming Out With Two Fingers
 42789;Doing other things
@@ -543,13 +514,11 @@ num;label
 32643;Stop Sign
 113494;Zooming Out With Two Fingers
 62450;Thumb Down
-141249;Drumming Fingers
 5372;Swiping Up
 98043;Doing other things
 18037;Doing other things
 138963;Zooming Out With Two Fingers
 1381;Doing other things
-22615;Drumming Fingers
 826;Swiping Right
 67655;Doing other things
 122649;Swiping Right
@@ -563,7 +532,6 @@ num;label
 99994;Doing other things
 144923;Thumb Up
 101527;Zooming Out With Two Fingers
-29896;Drumming Fingers
 21335;Swiping Down
 132231;Doing other things
 141034;Swiping Down
@@ -574,7 +542,6 @@ num;label
 49683;Swiping Up
 111141;Swiping Down
 90705;Swiping Up
-98884;Drumming Fingers
 105657;Zooming Out With Two Fingers
 35514;Zooming In With Two Fingers
 127902;Swiping Down
@@ -596,7 +563,6 @@ num;label
 82281;Sliding Two Fingers Right
 144403;Zooming Out With Two Fingers
 114173;Zooming Out With Two Fingers
-146654;Drumming Fingers
 35294;No gesture
 9145;Sliding Two Fingers Up
 80600;Sliding Two Fingers Left
@@ -614,7 +580,6 @@ num;label
 135700;Sliding Two Fingers Up
 35144;Stop Sign
 8881;Doing other things
-31193;Drumming Fingers
 66533;Thumb Down
 136673;Doing other things
 72998;No gesture
@@ -634,7 +599,6 @@ num;label
 3918;Swiping Up
 137368;Swiping Down
 33591;Zooming In With Two Fingers
-125903;Drumming Fingers
 143492;Sliding Two Fingers Up
 146694;Swiping Up
 19302;Sliding Two Fingers Left
@@ -664,10 +628,8 @@ num;label
 121436;Zooming Out With Two Fingers
 9865;Sliding Two Fingers Right
 69583;Swiping Up
-26031;Drumming Fingers
 61759;Thumb Up
 146999;No gesture
-63838;Drumming Fingers
 53991;Stop Sign
 72428;Thumb Up
 98716;Zooming Out With Two Fingers
@@ -681,7 +643,6 @@ num;label
 21338;Sliding Two Fingers Right
 135350;Thumb Up
 132248;Zooming Out With Two Fingers
-61542;Drumming Fingers
 131260;Doing other things
 72985;Stop Sign
 1721;Sliding Two Fingers Right
@@ -695,17 +656,14 @@ num;label
 101425;No gesture
 16103;Swiping Right
 79936;Swiping Down
-10371;Drumming Fingers
 51137;Doing other things
 82458;Zooming In With Two Fingers
 2486;Sliding Two Fingers Down
 65848;Swiping Right
 119727;Swiping Up
 87429;Doing other things
-77100;Drumming Fingers
 138081;No gesture
 106526;Doing other things
-113338;Drumming Fingers
 45953;Doing other things
 105122;Stop Sign
 38702;Doing other things
@@ -738,7 +696,6 @@ num;label
 43317;Doing other things
 1294;Stop Sign
 112206;Sliding Two Fingers Right
-142927;Drumming Fingers
 86687;Thumb Down
 127997;Doing other things
 107707;Sliding Two Fingers Right
@@ -750,7 +707,6 @@ num;label
 107374;Sliding Two Fingers Right
 79916;Zooming In With Two Fingers
 70259;Thumb Up
-72335;Drumming Fingers
 89345;Stop Sign
 18310;Doing other things
 72170;No gesture
@@ -802,13 +758,11 @@ num;label
 78117;Sliding Two Fingers Down
 47472;Sliding Two Fingers Down
 78846;Stop Sign
-24612;Drumming Fingers
 130927;No gesture
 111853;Thumb Down
 51128;Swiping Up
 58003;Sliding Two Fingers Up
 17505;Thumb Up
-125176;Drumming Fingers
 17536;Doing other things
 132752;Swiping Right
 71836;Swiping Up
@@ -820,12 +774,10 @@ num;label
 29250;Stop Sign
 72395;Thumb Up
 128087;Zooming In With Two Fingers
-54609;Drumming Fingers
 101880;Swiping Down
 108818;Swiping Up
 32392;Sliding Two Fingers Down
 121042;Thumb Down
-78886;Drumming Fingers
 84575;Thumb Up
 77810;Zooming In With Two Fingers
 10048;Stop Sign
@@ -856,7 +808,6 @@ num;label
 95381;Stop Sign
 87169;Sliding Two Fingers Up
 128559;Swiping Down
-30196;Drumming Fingers
 122722;No gesture
 56958;Sliding Two Fingers Down
 32354;Swiping Right
@@ -872,7 +823,6 @@ num;label
 62195;Stop Sign
 114568;Doing other things
 39622;Thumb Up
-130471;Drumming Fingers
 21193;Doing other things
 127639;Zooming Out With Two Fingers
 86261;Zooming Out With Two Fingers
@@ -883,7 +833,6 @@ num;label
 26162;Sliding Two Fingers Down
 87087;Doing other things
 25301;Zooming Out With Two Fingers
-98428;Drumming Fingers
 9880;Doing other things
 40554;Zooming Out With Two Fingers
 90725;Zooming In With Two Fingers
@@ -910,9 +859,7 @@ num;label
 125043;Sliding Two Fingers Right
 50512;No gesture
 138364;Sliding Two Fingers Up
-136874;Drumming Fingers
 52298;Zooming In With Two Fingers
-62665;Drumming Fingers
 52976;Doing other things
 51298;Doing other things
 85390;Zooming Out With Two Fingers
@@ -927,7 +874,6 @@ num;label
 112133;Sliding Two Fingers Left
 62376;Swiping Down
 24227;Stop Sign
-38359;Drumming Fingers
 11490;Zooming Out With Two Fingers
 144377;Thumb Up
 67822;Sliding Two Fingers Down
@@ -937,10 +883,8 @@ num;label
 106274;Zooming In With Two Fingers
 73315;Zooming Out With Two Fingers
 141358;Stop Sign
-77549;Drumming Fingers
 141360;Swiping Down
 146139;Swiping Up
-51215;Drumming Fingers
 131800;Thumb Up
 78238;Swiping Right
 40575;Thumb Up
@@ -949,7 +893,6 @@ num;label
 118970;Doing other things
 125269;Sliding Two Fingers Left
 19019;Sliding Two Fingers Up
-74404;Drumming Fingers
 107223;Stop Sign
 67684;Stop Sign
 51258;Thumb Down
@@ -988,7 +931,6 @@ num;label
 116374;Zooming In With Two Fingers
 16142;Swiping Right
 108618;Doing other things
-39629;Drumming Fingers
 85696;Stop Sign
 80063;Swiping Up
 143842;Sliding Two Fingers Down
@@ -1007,7 +949,6 @@ num;label
 64139;Sliding Two Fingers Right
 6217;Thumb Up
 140727;Sliding Two Fingers Up
-156;Drumming Fingers
 92388;No gesture
 133564;Thumb Up
 140185;Swiping Right
@@ -1062,7 +1003,6 @@ num;label
 117305;Zooming In With Two Fingers
 43574;Thumb Down
 120823;Doing other things
-61181;Drumming Fingers
 37997;Doing other things
 1203;No gesture
 58576;Thumb Up
@@ -1110,7 +1050,6 @@ num;label
 139536;Swiping Down
 40091;Swiping Down
 81877;Doing other things
-83799;Drumming Fingers
 81109;Swiping Up
 27671;Doing other things
 107905;Thumb Up
@@ -1131,7 +1070,6 @@ num;label
 70775;Doing other things
 18405;Zooming Out With Two Fingers
 112758;Swiping Down
-22158;Drumming Fingers
 148080;Doing other things
 85080;Sliding Two Fingers Left
 64436;Swiping Up
@@ -1150,7 +1088,6 @@ num;label
 98377;Thumb Down
 137531;No gesture
 36239;Thumb Up
-32708;Drumming Fingers
 46223;Sliding Two Fingers Down
 8723;Doing other things
 122863;Swiping Right
@@ -1168,7 +1105,6 @@ num;label
 104634;Sliding Two Fingers Right
 92252;Swiping Right
 115213;Thumb Down
-96170;Drumming Fingers
 11679;Swiping Right
 38622;Sliding Two Fingers Down
 119181;Thumb Up
@@ -1180,10 +1116,8 @@ num;label
 59634;Thumb Up
 96379;Sliding Two Fingers Right
 83913;Swiping Down
-11638;Drumming Fingers
 45320;Sliding Two Fingers Left
 99937;Stop Sign
-107183;Drumming Fingers
 111956;Sliding Two Fingers Right
 85146;No gesture
 73765;Doing other things
@@ -1192,7 +1126,6 @@ num;label
 85362;Doing other things
 14603;Doing other things
 96372;Swiping Right
-71351;Drumming Fingers
 28391;Stop Sign
 88286;Doing other things
 31717;Sliding Two Fingers Left
@@ -1202,11 +1135,9 @@ num;label
 134850;Stop Sign
 62506;Thumb Down
 64390;Swiping Up
-132970;Drumming Fingers
 130669;Thumb Down
 88388;Sliding Two Fingers Left
 98686;Sliding Two Fingers Down
-82920;Drumming Fingers
 98847;Sliding Two Fingers Up
 136423;Swiping Right
 54162;Thumb Up
@@ -1242,7 +1173,6 @@ num;label
 146524;Thumb Down
 67020;Sliding Two Fingers Left
 37911;Doing other things
-132565;Drumming Fingers
 101964;Zooming In With Two Fingers
 93655;Doing other things
 71813;Doing other things
@@ -1270,7 +1200,6 @@ num;label
 24120;Sliding Two Fingers Down
 38138;Doing other things
 30870;Doing other things
-92490;Drumming Fingers
 80049;Swiping Up
 132339;Sliding Two Fingers Left
 108266;Sliding Two Fingers Down
@@ -1278,14 +1207,12 @@ num;label
 120674;Zooming In With Two Fingers
 133291;Sliding Two Fingers Up
 106052;Thumb Down
-117410;Drumming Fingers
 62526;No gesture
 90392;Thumb Up
 46911;Doing other things
 52029;Sliding Two Fingers Up
 32624;Swiping Down
 12944;Zooming In With Two Fingers
-121988;Drumming Fingers
 122623;Doing other things
 25430;Thumb Up
 62129;Swiping Right
@@ -1334,7 +1261,6 @@ num;label
 3402;Sliding Two Fingers Right
 34435;Stop Sign
 26924;Sliding Two Fingers Right
-83293;Drumming Fingers
 44865;Sliding Two Fingers Right
 78639;Thumb Up
 73377;Sliding Two Fingers Left
@@ -1395,7 +1321,6 @@ num;label
 15986;Swiping Up
 16616;Sliding Two Fingers Left
 101382;Swiping Up
-10607;Drumming Fingers
 40538;Sliding Two Fingers Right
 18559;Zooming Out With Two Fingers
 55281;No gesture
@@ -1419,7 +1344,6 @@ num;label
 90914;Thumb Down
 86959;No gesture
 95930;Doing other things
-79968;Drumming Fingers
 123429;Doing other things
 30855;Sliding Two Fingers Down
 8704;Sliding Two Fingers Right
@@ -1428,7 +1352,6 @@ num;label
 58336;Doing other things
 35747;Swiping Up
 112677;Zooming In With Two Fingers
-19593;Drumming Fingers
 97794;Swiping Up
 43494;Doing other things
 50387;Zooming In With Two Fingers
@@ -1441,7 +1364,6 @@ num;label
 42557;Swiping Up
 146672;Swiping Right
 113872;Doing other things
-117135;Drumming Fingers
 71291;Thumb Down
 106475;Sliding Two Fingers Up
 55616;Doing other things
@@ -1477,10 +1399,8 @@ num;label
 15275;Thumb Down
 68328;Stop Sign
 80751;No gesture
-37320;Drumming Fingers
 76703;Swiping Down
 71442;Stop Sign
-90684;Drumming Fingers
 92947;Sliding Two Fingers Right
 123929;Sliding Two Fingers Left
 19858;Thumb Down
@@ -1499,7 +1419,6 @@ num;label
 47878;Doing other things
 111975;Sliding Two Fingers Down
 127730;Doing other things
-30076;Drumming Fingers
 38201;Zooming In With Two Fingers
 73846;Thumb Down
 108116;Stop Sign
@@ -1531,9 +1450,7 @@ num;label
 70643;Sliding Two Fingers Up
 91172;Sliding Two Fingers Left
 30866;Sliding Two Fingers Down
-71046;Drumming Fingers
 93364;Thumb Up
-96604;Drumming Fingers
 37081;Swiping Down
 121931;Doing other things
 105845;No gesture
@@ -1550,7 +1467,6 @@ num;label
 19370;Sliding Two Fingers Up
 36775;Sliding Two Fingers Left
 82970;Doing other things
-61612;Drumming Fingers
 94074;No gesture
 101536;Swiping Right
 83317;Swiping Right
@@ -1564,7 +1480,6 @@ num;label
 144686;Doing other things
 26191;Sliding Two Fingers Right
 65443;Stop Sign
-138378;Drumming Fingers
 29503;Stop Sign
 85505;Zooming Out With Two Fingers
 39805;Thumb Up
@@ -1587,7 +1502,6 @@ num;label
 111025;Thumb Up
 30936;Thumb Down
 41950;Doing other things
-101028;Drumming Fingers
 18365;Thumb Down
 134973;Swiping Up
 33410;Thumb Up
@@ -1605,9 +1519,7 @@ num;label
 60661;Sliding Two Fingers Up
 26757;Sliding Two Fingers Up
 28059;Sliding Two Fingers Down
-2512;Drumming Fingers
 143946;Zooming In With Two Fingers
-11683;Drumming Fingers
 71977;Zooming Out With Two Fingers
 117016;Swiping Up
 32306;Doing other things
@@ -1628,7 +1540,6 @@ num;label
 26815;Stop Sign
 90536;Swiping Right
 96203;Doing other things
-26795;Drumming Fingers
 144747;Swiping Right
 113939;Doing other things
 17998;Zooming In With Two Fingers
@@ -1678,7 +1589,6 @@ num;label
 3883;Zooming Out With Two Fingers
 115657;Stop Sign
 136326;Sliding Two Fingers Right
-35666;Drumming Fingers
 99966;Stop Sign
 126679;No gesture
 94869;Swiping Down
@@ -1692,7 +1602,6 @@ num;label
 43142;Doing other things
 102966;Sliding Two Fingers Right
 48080;Zooming In With Two Fingers
-2411;Drumming Fingers
 57251;Stop Sign
 90183;Zooming In With Two Fingers
 37858;Doing other things
@@ -1718,7 +1627,6 @@ num;label
 91574;Sliding Two Fingers Right
 135706;Sliding Two Fingers Up
 89258;Sliding Two Fingers Up
-129568;Drumming Fingers
 49287;Stop Sign
 41301;Stop Sign
 87977;Swiping Up
@@ -1751,7 +1659,6 @@ num;label
 47842;Thumb Down
 108429;Sliding Two Fingers Left
 5521;Doing other things
-65497;Drumming Fingers
 79167;Sliding Two Fingers Down
 130137;Sliding Two Fingers Down
 116007;Doing other things
@@ -1763,7 +1670,6 @@ num;label
 98543;Thumb Down
 44822;Sliding Two Fingers Down
 68097;Doing other things
-33767;Drumming Fingers
 106199;Doing other things
 32987;Stop Sign
 97284;Sliding Two Fingers Down
@@ -1782,7 +1688,6 @@ num;label
 96165;Zooming Out With Two Fingers
 115880;Swiping Down
 54258;Zooming Out With Two Fingers
-130481;Drumming Fingers
 120913;Swiping Right
 10528;Thumb Up
 45823;Sliding Two Fingers Left
@@ -1802,7 +1707,6 @@ num;label
 59420;Sliding Two Fingers Right
 109282;Swiping Down
 68056;Zooming Out With Two Fingers
-118866;Drumming Fingers
 65679;Swiping Up
 20070;Stop Sign
 73029;Sliding Two Fingers Right
@@ -1833,7 +1737,6 @@ num;label
 46685;Thumb Down
 77154;Doing other things
 59218;Doing other things
-86521;Drumming Fingers
 78511;Doing other things
 114465;Sliding Two Fingers Left
 134592;Doing other things
@@ -1878,17 +1781,12 @@ num;label
 91827;Sliding Two Fingers Down
 92221;Thumb Up
 73333;Sliding Two Fingers Down
-95052;Drumming Fingers
 8108;Stop Sign
-110952;Drumming Fingers
-108182;Drumming Fingers
 139743;No gesture
 81233;Doing other things
 126008;Zooming Out With Two Fingers
 115730;Sliding Two Fingers Right
 131324;Sliding Two Fingers Down
-100762;Drumming Fingers
-34194;Drumming Fingers
 94662;Doing other things
 56734;Swiping Down
 88096;Sliding Two Fingers Down
@@ -1925,7 +1823,6 @@ num;label
 129777;Sliding Two Fingers Up
 59351;Sliding Two Fingers Up
 42541;Thumb Down
-108718;Drumming Fingers
 46243;Thumb Down
 135737;Swiping Up
 107837;Doing other things
@@ -1992,14 +1889,12 @@ num;label
 76518;Swiping Right
 81059;Zooming Out With Two Fingers
 195;Zooming Out With Two Fingers
-4525;Drumming Fingers
 63609;Swiping Up
 21925;Doing other things
 59985;Sliding Two Fingers Left
 68327;Swiping Down
 18456;Sliding Two Fingers Up
 36452;Thumb Down
-117271;Drumming Fingers
 128224;Sliding Two Fingers Down
 39904;Doing other things
 39837;Sliding Two Fingers Up
@@ -2017,7 +1912,6 @@ num;label
 61482;Zooming Out With Two Fingers
 92542;Thumb Down
 11797;Doing other things
-138557;Drumming Fingers
 38097;Sliding Two Fingers Left
 133820;Thumb Down
 124799;Swiping Up
@@ -2044,7 +1938,6 @@ num;label
 14764;Thumb Up
 111398;Thumb Up
 107886;Sliding Two Fingers Right
-35723;Drumming Fingers
 100048;Swiping Up
 49098;Swiping Right
 97344;No gesture
@@ -2063,7 +1956,6 @@ num;label
 25162;Thumb Down
 5568;Swiping Up
 138386;Doing other things
-24320;Drumming Fingers
 83793;Thumb Up
 77531;Zooming Out With Two Fingers
 52279;Doing other things
@@ -2089,23 +1981,18 @@ num;label
 38397;Swiping Up
 54532;Swiping Down
 57539;Stop Sign
-32135;Drumming Fingers
 50576;Swiping Right
 38817;Sliding Two Fingers Left
 69357;Zooming In With Two Fingers
 4700;Doing other things
-146918;Drumming Fingers
-35;Drumming Fingers
 121651;Zooming In With Two Fingers
 105000;Sliding Two Fingers Down
 60949;Sliding Two Fingers Down
 65725;Doing other things
 68246;Doing other things
 124177;Sliding Two Fingers Up
-136614;Drumming Fingers
 41419;Stop Sign
 119029;No gesture
-19903;Drumming Fingers
 24096;Thumb Up
 2173;Swiping Up
 31976;Thumb Up
@@ -2115,7 +2002,6 @@ num;label
 49757;Thumb Up
 125888;Zooming In With Two Fingers
 128511;Sliding Two Fingers Right
-40605;Drumming Fingers
 108774;Zooming In With Two Fingers
 55533;Sliding Two Fingers Down
 51532;Stop Sign
@@ -2132,7 +2018,6 @@ num;label
 47353;Sliding Two Fingers Left
 87660;Doing other things
 70629;Sliding Two Fingers Right
-9400;Drumming Fingers
 96088;Sliding Two Fingers Down
 73743;No gesture
 19066;Sliding Two Fingers Up
@@ -2146,7 +2031,6 @@ num;label
 14428;No gesture
 108327;Swiping Up
 87078;Doing other things
-84446;Drumming Fingers
 84479;Sliding Two Fingers Up
 54294;Thumb Down
 106712;Sliding Two Fingers Left
@@ -2155,7 +2039,6 @@ num;label
 70833;Swiping Down
 16144;Sliding Two Fingers Down
 22693;Sliding Two Fingers Left
-138301;Drumming Fingers
 69154;Zooming Out With Two Fingers
 136349;Doing other things
 63767;Sliding Two Fingers Up
@@ -2165,7 +2048,6 @@ num;label
 33050;Swiping Up
 25814;Sliding Two Fingers Down
 87498;Thumb Up
-28206;Drumming Fingers
 23458;Swiping Down
 46893;Zooming In With Two Fingers
 9849;Sliding Two Fingers Down
@@ -2180,7 +2062,6 @@ num;label
 18745;Doing other things
 116410;Sliding Two Fingers Right
 29270;Doing other things
-130043;Drumming Fingers
 38536;Thumb Down
 125321;Doing other things
 116069;Sliding Two Fingers Right
@@ -2249,13 +2130,10 @@ num;label
 43706;No gesture
 114365;Stop Sign
 29712;Sliding Two Fingers Left
-2078;Drumming Fingers
-58688;Drumming Fingers
 116214;Doing other things
 9010;Doing other things
 107492;Sliding Two Fingers Left
 133419;Zooming In With Two Fingers
-27853;Drumming Fingers
 33582;No gesture
 40709;Swiping Up
 103467;Sliding Two Fingers Down
@@ -2279,9 +2157,7 @@ num;label
 115857;Sliding Two Fingers Up
 42047;Sliding Two Fingers Left
 135178;Doing other things
-34426;Drumming Fingers
 123583;Thumb Down
-26312;Drumming Fingers
 82102;Sliding Two Fingers Up
 114080;Doing other things
 125384;Swiping Up
@@ -2290,7 +2166,6 @@ num;label
 506;Doing other things
 66166;Doing other things
 6507;Sliding Two Fingers Down
-55637;Drumming Fingers
 137513;Thumb Down
 113548;Thumb Down
 104044;Doing other things
@@ -2328,7 +2203,6 @@ num;label
 58436;Sliding Two Fingers Down
 79228;Doing other things
 51070;No gesture
-114316;Drumming Fingers
 59166;Sliding Two Fingers Down
 94969;Thumb Down
 114093;Thumb Down
@@ -2342,9 +2216,7 @@ num;label
 122588;Sliding Two Fingers Down
 84614;Doing other things
 98933;Swiping Up
-145746;Drumming Fingers
 136544;Doing other things
-12268;Drumming Fingers
 22227;Doing other things
 38625;Zooming Out With Two Fingers
 76814;Thumb Up
@@ -2353,7 +2225,6 @@ num;label
 67745;Sliding Two Fingers Down
 88422;Sliding Two Fingers Up
 74800;Sliding Two Fingers Down
-89963;Drumming Fingers
 30718;Doing other things
 70687;Stop Sign
 98349;Sliding Two Fingers Left
@@ -2362,8 +2233,6 @@ num;label
 33706;Sliding Two Fingers Left
 65965;Zooming Out With Two Fingers
 19819;Sliding Two Fingers Right
-10788;Drumming Fingers
-95917;Drumming Fingers
 126567;Doing other things
 126628;Doing other things
 8498;Sliding Two Fingers Right
@@ -2392,7 +2261,6 @@ num;label
 119538;Doing other things
 58299;Swiping Up
 140137;Zooming Out With Two Fingers
-34862;Drumming Fingers
 59274;Zooming In With Two Fingers
 74093;Sliding Two Fingers Left
 2999;Swiping Down
@@ -2445,7 +2313,6 @@ num;label
 91843;Thumb Up
 78920;Thumb Up
 143860;Zooming In With Two Fingers
-143265;Drumming Fingers
 71335;Swiping Up
 73477;Doing other things
 143529;Sliding Two Fingers Left
@@ -2460,7 +2327,6 @@ num;label
 95263;Zooming Out With Two Fingers
 64767;Doing other things
 96236;Sliding Two Fingers Up
-57008;Drumming Fingers
 108937;Zooming In With Two Fingers
 94213;Thumb Down
 135052;Swiping Down
@@ -2482,7 +2348,6 @@ num;label
 68546;Swiping Up
 47961;Swiping Down
 95919;Sliding Two Fingers Left
-15993;Drumming Fingers
 6554;No gesture
 64311;Zooming Out With Two Fingers
 128374;Sliding Two Fingers Left
@@ -2494,11 +2359,9 @@ num;label
 58169;Sliding Two Fingers Left
 30418;Thumb Down
 76947;Swiping Up
-124191;Drumming Fingers
 18654;Sliding Two Fingers Left
 31895;Sliding Two Fingers Left
 56441;Swiping Right
-86914;Drumming Fingers
 117014;Thumb Up
 147701;Stop Sign
 109624;Doing other things
@@ -2506,7 +2369,6 @@ num;label
 21573;Sliding Two Fingers Up
 34412;Zooming Out With Two Fingers
 64518;Thumb Down
-20213;Drumming Fingers
 145292;Swiping Down
 141728;Zooming Out With Two Fingers
 70211;Swiping Right
@@ -2551,20 +2413,17 @@ num;label
 130841;Swiping Up
 56182;No gesture
 58816;Swiping Down
-35708;Drumming Fingers
 74383;Sliding Two Fingers Left
 1111;No gesture
 133885;Swiping Right
 26818;Doing other things
 43332;Zooming In With Two Fingers
-138281;Drumming Fingers
 74975;Swiping Down
 105356;Doing other things
 34323;Doing other things
 128029;Sliding Two Fingers Up
 52689;Sliding Two Fingers Up
 5663;Doing other things
-31057;Drumming Fingers
 121076;Sliding Two Fingers Right
 88017;Swiping Right
 20193;No gesture
@@ -2590,12 +2449,9 @@ num;label
 57830;Sliding Two Fingers Left
 102308;Thumb Down
 6146;Sliding Two Fingers Left
-2358;Drumming Fingers
 47340;Thumb Up
 135472;Sliding Two Fingers Left
-79636;Drumming Fingers
 141839;Doing other things
-76191;Drumming Fingers
 55129;Zooming In With Two Fingers
 97905;Stop Sign
 146454;Doing other things
@@ -2606,7 +2462,6 @@ num;label
 125447;Sliding Two Fingers Right
 8401;Thumb Down
 1757;Swiping Right
-27336;Drumming Fingers
 137724;Sliding Two Fingers Right
 121333;Doing other things
 3177;No gesture
@@ -2615,7 +2470,6 @@ num;label
 54717;Zooming In With Two Fingers
 91811;Swiping Right
 21470;Doing other things
-30745;Drumming Fingers
 93262;Thumb Down
 72432;Sliding Two Fingers Left
 109967;Doing other things
@@ -2629,7 +2483,6 @@ num;label
 137111;Doing other things
 100090;Doing other things
 13376;Sliding Two Fingers Right
-11725;Drumming Fingers
 73204;Zooming In With Two Fingers
 86563;Thumb Down
 121095;Swiping Down
@@ -2647,7 +2500,6 @@ num;label
 93258;Doing other things
 88551;No gesture
 22291;Thumb Up
-35285;Drumming Fingers
 14878;Swiping Right
 50279;Stop Sign
 112694;Sliding Two Fingers Right
@@ -2661,8 +2513,6 @@ num;label
 88309;Doing other things
 64503;Sliding Two Fingers Right
 143486;Doing other things
-132538;Drumming Fingers
-55519;Drumming Fingers
 144013;Doing other things
 99245;Zooming Out With Two Fingers
 5437;Sliding Two Fingers Down
@@ -2698,7 +2548,6 @@ num;label
 138887;Stop Sign
 23919;Zooming In With Two Fingers
 105379;Zooming Out With Two Fingers
-168;Drumming Fingers
 130507;Doing other things
 63032;Sliding Two Fingers Left
 96529;Sliding Two Fingers Up
@@ -2724,7 +2573,6 @@ num;label
 63873;Doing other things
 24633;Stop Sign
 33541;Doing other things
-56492;Drumming Fingers
 5565;Doing other things
 81127;Sliding Two Fingers Left
 83541;Sliding Two Fingers Up
@@ -2752,7 +2600,6 @@ num;label
 108134;Stop Sign
 35411;No gesture
 107233;Doing other things
-52136;Drumming Fingers
 120408;Doing other things
 62007;No gesture
 44914;Zooming Out With Two Fingers
@@ -2760,14 +2607,12 @@ num;label
 109817;Zooming In With Two Fingers
 37711;Doing other things
 21804;Sliding Two Fingers Left
-98511;Drumming Fingers
 724;Stop Sign
 22442;Doing other things
 136254;Zooming Out With Two Fingers
 15569;Swiping Up
 81093;Doing other things
 11531;Sliding Two Fingers Left
-9097;Drumming Fingers
 68725;Thumb Up
 123823;Stop Sign
 75371;Sliding Two Fingers Down
@@ -2803,7 +2648,6 @@ num;label
 52687;Thumb Down
 118984;Sliding Two Fingers Right
 129132;Swiping Up
-132993;Drumming Fingers
 65110;Swiping Down
 31661;Doing other things
 144841;Thumb Up
@@ -2824,7 +2668,6 @@ num;label
 22248;Thumb Up
 34906;Swiping Down
 112001;Sliding Two Fingers Right
-122778;Drumming Fingers
 91818;Doing other things
 63550;Thumb Down
 146734;Doing other things
@@ -2842,7 +2685,6 @@ num;label
 47241;Sliding Two Fingers Left
 106594;Zooming Out With Two Fingers
 20858;Swiping Right
-4002;Drumming Fingers
 78055;Sliding Two Fingers Right
 95653;Swiping Right
 82041;Thumb Down
@@ -2857,9 +2699,7 @@ num;label
 96166;Thumb Up
 105685;Swiping Up
 104137;Sliding Two Fingers Up
-138738;Drumming Fingers
 105861;Doing other things
-17063;Drumming Fingers
 36270;Sliding Two Fingers Left
 35861;No gesture
 50630;Swiping Up
@@ -2933,7 +2773,6 @@ num;label
 54657;Doing other things
 45636;Sliding Two Fingers Right
 69673;Thumb Up
-10965;Drumming Fingers
 71848;Swiping Down
 130067;Zooming In With Two Fingers
 142004;Swiping Down
@@ -2941,7 +2780,6 @@ num;label
 14661;Sliding Two Fingers Right
 87746;Sliding Two Fingers Right
 88575;Swiping Down
-29755;Drumming Fingers
 20489;Sliding Two Fingers Right
 64017;Thumb Up
 36095;Thumb Up
@@ -2952,7 +2790,6 @@ num;label
 24265;Doing other things
 9218;Stop Sign
 146874;Zooming In With Two Fingers
-132736;Drumming Fingers
 46589;Zooming In With Two Fingers
 48134;Sliding Two Fingers Down
 136542;Doing other things
@@ -2987,13 +2824,11 @@ num;label
 5794;Zooming Out With Two Fingers
 58624;Swiping Down
 57257;Sliding Two Fingers Left
-8497;Drumming Fingers
 6575;Swiping Right
 15971;Thumb Down
 55407;Swiping Up
 35274;Sliding Two Fingers Up
 40647;Thumb Up
-143869;Drumming Fingers
 110703;Swiping Down
 53871;Thumb Down
 11813;Doing other things
@@ -3001,7 +2836,6 @@ num;label
 141157;Sliding Two Fingers Left
 6784;Swiping Up
 33691;Swiping Right
-55417;Drumming Fingers
 92774;Thumb Down
 24009;Doing other things
 143608;Sliding Two Fingers Down
@@ -3010,12 +2844,9 @@ num;label
 15573;Sliding Two Fingers Left
 130302;Stop Sign
 75397;Sliding Two Fingers Down
-37775;Drumming Fingers
-84503;Drumming Fingers
 77107;Thumb Up
 69488;Thumb Up
 91332;Doing other things
-98068;Drumming Fingers
 44656;Doing other things
 411;Zooming In With Two Fingers
 33140;No gesture
@@ -3047,7 +2878,6 @@ num;label
 35208;Sliding Two Fingers Up
 38661;Swiping Up
 19550;Stop Sign
-79366;Drumming Fingers
 16369;Thumb Up
 81469;Thumb Up
 96925;Sliding Two Fingers Right
@@ -3070,9 +2900,6 @@ num;label
 94311;Swiping Up
 146768;Swiping Down
 97100;Sliding Two Fingers Up
-119516;Drumming Fingers
-86529;Drumming Fingers
-90796;Drumming Fingers
 34397;Swiping Right
 138580;Doing other things
 66226;Sliding Two Fingers Left
@@ -3093,7 +2920,6 @@ num;label
 66815;Stop Sign
 61758;Sliding Two Fingers Down
 16916;Zooming In With Two Fingers
-71410;Drumming Fingers
 105406;Sliding Two Fingers Right
 96445;Thumb Down
 53647;Sliding Two Fingers Left
@@ -3107,7 +2933,6 @@ num;label
 101020;Zooming Out With Two Fingers
 91440;Zooming Out With Two Fingers
 106107;Doing other things
-125123;Drumming Fingers
 80025;Swiping Right
 35529;No gesture
 134102;Doing other things
@@ -3127,7 +2952,6 @@ num;label
 14513;Zooming Out With Two Fingers
 115157;Zooming In With Two Fingers
 19990;Swiping Up
-135506;Drumming Fingers
 99229;Thumb Down
 47189;Doing other things
 28726;Swiping Up
@@ -3140,7 +2964,6 @@ num;label
 80651;Zooming Out With Two Fingers
 54015;Doing other things
 63202;Thumb Down
-69676;Drumming Fingers
 83129;Swiping Right
 137098;Sliding Two Fingers Right
 75103;Doing other things
@@ -3164,9 +2987,7 @@ num;label
 110655;Sliding Two Fingers Down
 48815;Sliding Two Fingers Right
 94554;Swiping Up
-25440;Drumming Fingers
 115194;Zooming Out With Two Fingers
-9336;Drumming Fingers
 42146;Doing other things
 63513;Swiping Down
 93850;Swiping Right
@@ -3207,7 +3028,6 @@ num;label
 36151;Doing other things
 50089;Sliding Two Fingers Right
 142202;Stop Sign
-8879;Drumming Fingers
 32444;Stop Sign
 43370;Sliding Two Fingers Up
 64621;Swiping Right
@@ -3236,14 +3056,12 @@ num;label
 21438;Sliding Two Fingers Down
 113516;Doing other things
 26995;Zooming In With Two Fingers
-77773;Drumming Fingers
 18521;Doing other things
 111928;Sliding Two Fingers Up
 138207;Sliding Two Fingers Left
 35554;Doing other things
 15781;Swiping Up
 59735;Thumb Up
-124769;Drumming Fingers
 98169;Sliding Two Fingers Left
 44186;Swiping Up
 142415;Swiping Right
@@ -3261,12 +3079,10 @@ num;label
 18196;Swiping Down
 19775;Thumb Down
 58343;Sliding Two Fingers Left
-103127;Drumming Fingers
 130387;Zooming In With Two Fingers
 113006;Stop Sign
 19950;Swiping Right
 28785;Sliding Two Fingers Right
-125078;Drumming Fingers
 41016;Stop Sign
 111342;Sliding Two Fingers Up
 73457;Zooming Out With Two Fingers
@@ -3278,11 +3094,9 @@ num;label
 70683;Zooming Out With Two Fingers
 128972;Sliding Two Fingers Left
 121344;Doing other things
-30717;Drumming Fingers
 81130;No gesture
 75419;Sliding Two Fingers Right
 77722;Sliding Two Fingers Left
-123170;Drumming Fingers
 118716;Swiping Up
 107244;Thumb Down
 52024;Zooming Out With Two Fingers
@@ -3297,7 +3111,6 @@ num;label
 48971;No gesture
 43398;No gesture
 36518;Sliding Two Fingers Left
-91637;Drumming Fingers
 88898;Zooming In With Two Fingers
 107362;Swiping Right
 144129;Thumb Down
@@ -3311,10 +3124,8 @@ num;label
 53645;Thumb Down
 7275;Doing other things
 35066;Sliding Two Fingers Right
-126148;Drumming Fingers
 18871;Sliding Two Fingers Up
 115736;No gesture
-10836;Drumming Fingers
 84351;Sliding Two Fingers Down
 17463;Thumb Up
 9836;Swiping Down
@@ -3322,7 +3133,6 @@ num;label
 121106;Swiping Right
 144509;Sliding Two Fingers Left
 6377;Sliding Two Fingers Down
-72316;Drumming Fingers
 123366;Doing other things
 63270;Sliding Two Fingers Right
 33563;Swiping Right
@@ -3338,7 +3148,6 @@ num;label
 60795;Sliding Two Fingers Up
 16801;Sliding Two Fingers Down
 2488;Thumb Up
-22873;Drumming Fingers
 33368;Sliding Two Fingers Down
 106101;No gesture
 6181;Swiping Up
@@ -3370,7 +3179,6 @@ num;label
 143874;Sliding Two Fingers Left
 128130;Sliding Two Fingers Left
 49024;Zooming In With Two Fingers
-89088;Drumming Fingers
 13162;Zooming Out With Two Fingers
 147649;Sliding Two Fingers Up
 88728;Sliding Two Fingers Right
@@ -3380,7 +3188,6 @@ num;label
 23453;Doing other things
 108064;Swiping Up
 143563;Swiping Up
-85827;Drumming Fingers
 84970;Sliding Two Fingers Right
 129695;Thumb Down
 21406;Thumb Up
@@ -3392,7 +3199,6 @@ num;label
 115891;Sliding Two Fingers Up
 14621;Thumb Down
 129118;Doing other things
-115860;Drumming Fingers
 15475;Sliding Two Fingers Left
 142161;Swiping Up
 59852;Sliding Two Fingers Down
@@ -3401,13 +3207,11 @@ num;label
 122341;Swiping Right
 1035;Zooming In With Two Fingers
 50866;Thumb Up
-145296;Drumming Fingers
 62660;Swiping Down
 49889;Thumb Up
 116685;No gesture
 55160;No gesture
 140637;Sliding Two Fingers Left
-47542;Drumming Fingers
 123123;Stop Sign
 145721;Zooming In With Two Fingers
 72139;Sliding Two Fingers Down
@@ -3441,10 +3245,8 @@ num;label
 56479;Zooming Out With Two Fingers
 62420;Doing other things
 109121;Sliding Two Fingers Right
-124431;Drumming Fingers
 142061;Swiping Right
 51149;Sliding Two Fingers Down
-65862;Drumming Fingers
 114094;Thumb Up
 136445;Swiping Right
 71286;Doing other things
@@ -3454,16 +3256,12 @@ num;label
 101384;Zooming In With Two Fingers
 64328;Swiping Up
 95116;Sliding Two Fingers Up
-4762;Drumming Fingers
 23199;Thumb Down
-95297;Drumming Fingers
 13546;No gesture
 115271;Swiping Up
-44891;Drumming Fingers
 34514;Zooming Out With Two Fingers
 41431;Sliding Two Fingers Up
 31029;Doing other things
-29845;Drumming Fingers
 127031;Stop Sign
 109056;Doing other things
 83486;Thumb Down
@@ -3508,8 +3306,6 @@ num;label
 77093;Doing other things
 97410;Stop Sign
 88047;Sliding Two Fingers Down
-13915;Drumming Fingers
-142676;Drumming Fingers
 40378;Sliding Two Fingers Left
 134368;Zooming In With Two Fingers
 121975;Swiping Down
@@ -3526,7 +3322,6 @@ num;label
 93912;Thumb Down
 7943;Thumb Down
 104183;Sliding Two Fingers Down
-95354;Drumming Fingers
 102399;Zooming Out With Two Fingers
 102937;Sliding Two Fingers Right
 47451;Swiping Right
@@ -3573,39 +3368,29 @@ num;label
 5596;Sliding Two Fingers Left
 128359;Thumb Down
 120535;Swiping Up
-31425;Drumming Fingers
 31452;Doing other things
 134691;Zooming Out With Two Fingers
-21411;Drumming Fingers
 94387;Doing other things
 74315;Zooming In With Two Fingers
-46173;Drumming Fingers
 101528;Sliding Two Fingers Down
-147716;Drumming Fingers
 100533;Swiping Down
 74650;Sliding Two Fingers Up
-49480;Drumming Fingers
 49908;Thumb Up
 32667;Doing other things
 7137;Sliding Two Fingers Down
 73211;Stop Sign
 22264;Doing other things
 143043;Sliding Two Fingers Up
-4589;Drumming Fingers
 51028;Swiping Up
 81720;Doing other things
 117736;Sliding Two Fingers Left
 111331;Sliding Two Fingers Left
 31985;Sliding Two Fingers Left
-39369;Drumming Fingers
 95467;Swiping Down
 82885;Sliding Two Fingers Left
 47818;Swiping Right
 19598;Sliding Two Fingers Down
-22101;Drumming Fingers
 86031;Thumb Down
-77592;Drumming Fingers
-145780;Drumming Fingers
 132842;Sliding Two Fingers Up
 123812;Thumb Up
 91918;Zooming Out With Two Fingers
@@ -3619,7 +3404,6 @@ num;label
 88550;Swiping Down
 76993;Sliding Two Fingers Down
 125129;Doing other things
-90073;Drumming Fingers
 123274;Doing other things
 117149;Doing other things
 53010;Zooming In With Two Fingers
@@ -3635,7 +3419,6 @@ num;label
 7251;Thumb Up
 122431;Thumb Up
 14255;Swiping Down
-8348;Drumming Fingers
 47608;Doing other things
 55774;Zooming In With Two Fingers
 32095;Doing other things
@@ -3692,7 +3475,6 @@ num;label
 55431;Zooming Out With Two Fingers
 34393;Sliding Two Fingers Up
 97010;Swiping Up
-82605;Drumming Fingers
 57470;Zooming In With Two Fingers
 90378;Thumb Down
 139861;No gesture
@@ -3709,7 +3491,6 @@ num;label
 126842;Swiping Up
 139283;Thumb Up
 65135;Sliding Two Fingers Left
-68112;Drumming Fingers
 78231;Sliding Two Fingers Right
 127806;Sliding Two Fingers Up
 40398;Zooming Out With Two Fingers
@@ -3730,7 +3511,6 @@ num;label
 44225;Doing other things
 139069;Swiping Down
 131987;Sliding Two Fingers Down
-66788;Drumming Fingers
 138560;No gesture
 137641;Stop Sign
 103890;Sliding Two Fingers Down
@@ -3780,7 +3560,6 @@ num;label
 115458;Swiping Down
 12016;Stop Sign
 89975;Swiping Up
-134068;Drumming Fingers
 36364;Doing other things
 20166;Swiping Up
 129896;Doing other things
@@ -3792,7 +3571,6 @@ num;label
 997;Sliding Two Fingers Down
 90872;Sliding Two Fingers Up
 25486;Stop Sign
-85070;Drumming Fingers
 118888;Doing other things
 24186;Doing other things
 137304;Swiping Down
@@ -3804,20 +3582,17 @@ num;label
 48951;Doing other things
 60925;Sliding Two Fingers Down
 76913;Swiping Up
-122554;Drumming Fingers
 64446;Swiping Down
 140946;Swiping Right
 25947;Zooming In With Two Fingers
 97801;No gesture
 69479;Thumb Up
 120634;Sliding Two Fingers Right
-9373;Drumming Fingers
 111379;Thumb Down
 144388;Sliding Two Fingers Right
 31873;Swiping Right
 33124;Swiping Right
 61686;Swiping Right
-95442;Drumming Fingers
 35351;No gesture
 101419;Sliding Two Fingers Down
 52574;Swiping Up
@@ -3839,7 +3614,6 @@ num;label
 48885;Thumb Down
 134570;Thumb Up
 145122;Zooming In With Two Fingers
-33737;Drumming Fingers
 100438;Swiping Down
 134485;Zooming Out With Two Fingers
 32793;Doing other things
@@ -3848,7 +3622,6 @@ num;label
 33012;Swiping Down
 140849;Thumb Down
 130929;Zooming Out With Two Fingers
-125735;Drumming Fingers
 45987;Sliding Two Fingers Left
 5169;Sliding Two Fingers Right
 15681;Swiping Down
@@ -3858,7 +3631,6 @@ num;label
 121886;Zooming In With Two Fingers
 143373;Swiping Right
 147582;Zooming Out With Two Fingers
-61141;Drumming Fingers
 22050;Zooming Out With Two Fingers
 68299;Sliding Two Fingers Right
 22711;Doing other things
@@ -3869,8 +3641,6 @@ num;label
 145336;Swiping Down
 88496;Doing other things
 133370;Sliding Two Fingers Right
-20032;Drumming Fingers
-41156;Drumming Fingers
 143358;Doing other things
 19347;Doing other things
 115747;Swiping Up
@@ -3910,10 +3680,8 @@ num;label
 90132;Sliding Two Fingers Down
 47539;Sliding Two Fingers Up
 119435;Sliding Two Fingers Left
-23813;Drumming Fingers
 72196;No gesture
 10174;Sliding Two Fingers Down
-29265;Drumming Fingers
 69056;Doing other things
 50818;Zooming In With Two Fingers
 79081;Thumb Down
@@ -3963,9 +3731,7 @@ num;label
 101743;Swiping Down
 63669;Doing other things
 25375;Zooming In With Two Fingers
-119994;Drumming Fingers
 16651;Sliding Two Fingers Right
-74808;Drumming Fingers
 132182;Stop Sign
 49538;Swiping Up
 69900;Swiping Right
@@ -4010,11 +3776,9 @@ num;label
 56040;Thumb Up
 119030;Thumb Up
 112084;Sliding Two Fingers Up
-140663;Drumming Fingers
 322;Zooming In With Two Fingers
 20082;Swiping Right
 120403;Zooming Out With Two Fingers
-142162;Drumming Fingers
 72748;Thumb Up
 110862;Zooming Out With Two Fingers
 94427;Sliding Two Fingers Down
@@ -4029,10 +3793,8 @@ num;label
 61406;Zooming In With Two Fingers
 14135;Doing other things
 133410;Sliding Two Fingers Up
-62902;Drumming Fingers
 60833;Swiping Right
 113522;Doing other things
-14593;Drumming Fingers
 137658;Swiping Right
 27913;Swiping Down
 84257;Swiping Right
@@ -4085,11 +3847,7 @@ num;label
 16013;No gesture
 53294;Zooming Out With Two Fingers
 102235;Swiping Down
-79427;Drumming Fingers
-114873;Drumming Fingers
 55525;Sliding Two Fingers Down
-132390;Drumming Fingers
-142794;Drumming Fingers
 70539;Stop Sign
 113221;Thumb Up
 41038;Zooming Out With Two Fingers
@@ -4110,7 +3868,6 @@ num;label
 87426;Thumb Up
 62329;Swiping Right
 24608;Zooming Out With Two Fingers
-53401;Drumming Fingers
 107315;Zooming Out With Two Fingers
 134982;Zooming In With Two Fingers
 121943;Sliding Two Fingers Right
@@ -4130,7 +3887,6 @@ num;label
 144652;Zooming Out With Two Fingers
 72069;Swiping Down
 33558;No gesture
-141196;Drumming Fingers
 86135;Stop Sign
 4362;Doing other things
 24855;Swiping Right
@@ -4152,7 +3908,6 @@ num;label
 73924;Sliding Two Fingers Right
 65727;Zooming Out With Two Fingers
 77683;Zooming In With Two Fingers
-42743;Drumming Fingers
 48459;Stop Sign
 74943;Sliding Two Fingers Right
 121992;Sliding Two Fingers Left
@@ -4218,10 +3973,8 @@ num;label
 103754;Stop Sign
 47043;Swiping Right
 143484;Thumb Down
-28390;Drumming Fingers
 99446;Sliding Two Fingers Left
 80781;Swiping Up
-131262;Drumming Fingers
 71089;Doing other things
 2252;Sliding Two Fingers Down
 2216;No gesture
@@ -4294,12 +4047,10 @@ num;label
 2840;Doing other things
 76143;Sliding Two Fingers Left
 22988;Sliding Two Fingers Left
-107500;Drumming Fingers
 121444;Doing other things
 94536;Sliding Two Fingers Left
 8554;Thumb Down
 19291;Sliding Two Fingers Right
-14861;Drumming Fingers
 55275;Thumb Up
 78912;Stop Sign
 132239;Sliding Two Fingers Right
@@ -4319,12 +4070,9 @@ num;label
 11234;Zooming Out With Two Fingers
 57489;Swiping Up
 40210;Swiping Up
-66455;Drumming Fingers
-131088;Drumming Fingers
 47892;Sliding Two Fingers Left
 130501;Sliding Two Fingers Left
 81067;Swiping Right
-141792;Drumming Fingers
 94420;Zooming Out With Two Fingers
 92796;Sliding Two Fingers Right
 51978;Swiping Right
@@ -4350,13 +4098,11 @@ num;label
 41972;Thumb Up
 133484;Zooming In With Two Fingers
 17717;Sliding Two Fingers Left
-142390;Drumming Fingers
 83854;Doing other things
 58573;Zooming In With Two Fingers
 144853;No gesture
 56385;Stop Sign
 34176;Sliding Two Fingers Right
-138843;Drumming Fingers
 80995;Sliding Two Fingers Left
 43445;Doing other things
 89272;Doing other things
@@ -4388,9 +4134,7 @@ num;label
 145847;Sliding Two Fingers Right
 127708;Doing other things
 1360;Sliding Two Fingers Up
-21087;Drumming Fingers
 101308;Swiping Right
-116765;Drumming Fingers
 66390;Zooming Out With Two Fingers
 145951;Sliding Two Fingers Up
 106247;Sliding Two Fingers Right
@@ -4408,7 +4152,6 @@ num;label
 11074;Stop Sign
 110272;Doing other things
 56411;Sliding Two Fingers Down
-137670;Drumming Fingers
 113582;Sliding Two Fingers Down
 86522;Stop Sign
 2465;Doing other things
@@ -4431,7 +4174,6 @@ num;label
 13292;Swiping Down
 32478;Doing other things
 11817;Swiping Up
-96451;Drumming Fingers
 112264;Thumb Up
 77775;Swiping Up
 127274;Swiping Down
@@ -4446,7 +4188,6 @@ num;label
 4133;Swiping Up
 47023;No gesture
 73672;Thumb Up
-103858;Drumming Fingers
 146267;Zooming Out With Two Fingers
 79886;Doing other things
 83416;Thumb Up
@@ -4456,7 +4197,6 @@ num;label
 128060;Zooming In With Two Fingers
 16239;Sliding Two Fingers Right
 139420;Thumb Up
-144231;Drumming Fingers
 7120;Thumb Up
 51586;Doing other things
 44921;Sliding Two Fingers Right
@@ -4465,7 +4205,6 @@ num;label
 26753;Sliding Two Fingers Up
 105733;Thumb Down
 94267;Sliding Two Fingers Up
-49934;Drumming Fingers
 108882;Sliding Two Fingers Down
 145774;Sliding Two Fingers Left
 102360;Sliding Two Fingers Up
@@ -4479,7 +4218,6 @@ num;label
 102717;Stop Sign
 7129;Sliding Two Fingers Right
 8603;Swiping Right
-104869;Drumming Fingers
 4084;Zooming Out With Two Fingers
 78475;Doing other things
 28807;Sliding Two Fingers Up
@@ -4491,11 +4229,9 @@ num;label
 108303;Swiping Down
 41298;Thumb Up
 111098;Thumb Down
-89376;Drumming Fingers
 12424;Sliding Two Fingers Down
 60255;Zooming In With Two Fingers
 48633;Sliding Two Fingers Left
-29078;Drumming Fingers
 115612;Doing other things
 63330;Doing other things
 31210;Swiping Up
@@ -4512,7 +4248,6 @@ num;label
 23700;Thumb Down
 68910;Doing other things
 115074;Zooming Out With Two Fingers
-74301;Drumming Fingers
 68084;Sliding Two Fingers Right
 97836;Zooming Out With Two Fingers
 94646;Sliding Two Fingers Right
@@ -4523,10 +4258,8 @@ num;label
 43468;Thumb Down
 59830;Sliding Two Fingers Down
 81780;Zooming In With Two Fingers
-148065;Drumming Fingers
 109995;Stop Sign
 92396;Doing other things
-133525;Drumming Fingers
 94697;Thumb Up
 132762;Sliding Two Fingers Up
 41190;Doing other things
@@ -4536,7 +4269,6 @@ num;label
 123833;Sliding Two Fingers Left
 46165;No gesture
 92406;Thumb Down
-96735;Drumming Fingers
 91877;Sliding Two Fingers Down
 140202;Sliding Two Fingers Left
 7659;Swiping Up
@@ -4557,7 +4289,6 @@ num;label
 116994;Doing other things
 136250;Stop Sign
 18854;Stop Sign
-146952;Drumming Fingers
 56328;Zooming Out With Two Fingers
 40548;Stop Sign
 142327;Stop Sign
@@ -4574,7 +4305,6 @@ num;label
 14123;Doing other things
 60550;Zooming Out With Two Fingers
 67088;Stop Sign
-99197;Drumming Fingers
 93718;Zooming Out With Two Fingers
 19252;Sliding Two Fingers Down
 98835;Doing other things
@@ -4602,11 +4332,8 @@ num;label
 13021;Sliding Two Fingers Down
 92695;Zooming Out With Two Fingers
 55843;Sliding Two Fingers Up
-59215;Drumming Fingers
-145757;Drumming Fingers
 95292;Doing other things
 56887;Thumb Down
-102245;Drumming Fingers
 132740;Sliding Two Fingers Right
 111601;Zooming Out With Two Fingers
 89261;Sliding Two Fingers Left
@@ -4654,22 +4381,18 @@ num;label
 74671;Sliding Two Fingers Right
 46788;Stop Sign
 561;Thumb Down
-23036;Drumming Fingers
 142495;Zooming In With Two Fingers
 63053;Sliding Two Fingers Right
-69913;Drumming Fingers
 119350;Swiping Up
 80367;Swiping Up
 142882;Zooming In With Two Fingers
 89978;Swiping Down
 88727;Swiping Up
 19493;Swiping Right
-23387;Drumming Fingers
 142579;Sliding Two Fingers Down
 22136;Swiping Up
 85884;Doing other things
 3536;Swiping Right
-89680;Drumming Fingers
 67449;Zooming Out With Two Fingers
 23069;Swiping Right
 95843;Zooming In With Two Fingers
@@ -4688,7 +4411,6 @@ num;label
 147259;Sliding Two Fingers Left
 37944;No gesture
 10701;Thumb Down
-144067;Drumming Fingers
 71978;Doing other things
 76423;Swiping Down
 47788;Sliding Two Fingers Down
@@ -4699,7 +4421,6 @@ num;label
 143991;Swiping Up
 21806;Doing other things
 65753;Doing other things
-121721;Drumming Fingers
 109487;Doing other things
 89678;Sliding Two Fingers Up
 121800;Thumb Down
@@ -4731,13 +4452,11 @@ num;label
 24389;Doing other things
 110627;Thumb Down
 104927;No gesture
-20033;Drumming Fingers
 47187;Doing other things
 95229;Sliding Two Fingers Up
 34923;Doing other things
 40479;Stop Sign
 40590;Doing other things
-114920;Drumming Fingers
 115406;Sliding Two Fingers Up
 34642;No gesture
 124573;Thumb Up
@@ -4750,11 +4469,9 @@ num;label
 37228;Doing other things
 81581;Sliding Two Fingers Up
 96790;Swiping Down
-44118;Drumming Fingers
 38747;Sliding Two Fingers Left
 114385;Swiping Right
 21217;Doing other things
-71776;Drumming Fingers
 127934;Zooming In With Two Fingers
 23404;Swiping Down
 72233;Swiping Right
@@ -4792,7 +4509,6 @@ num;label
 84049;Thumb Down
 80656;No gesture
 87348;Doing other things
-28449;Drumming Fingers
 8613;Sliding Two Fingers Down
 37468;Thumb Down
 71021;Swiping Up
@@ -4819,17 +4535,13 @@ num;label
 133915;Sliding Two Fingers Down
 126204;Sliding Two Fingers Right
 81209;Thumb Down
-42830;Drumming Fingers
 2399;Sliding Two Fingers Down
 52936;Stop Sign
-143420;Drumming Fingers
 14164;Sliding Two Fingers Up
 102978;Swiping Right
 88559;Sliding Two Fingers Right
-35135;Drumming Fingers
 122004;Sliding Two Fingers Up
 46116;Sliding Two Fingers Down
-7339;Drumming Fingers
 34679;Thumb Down
 16650;Doing other things
 46395;No gesture
@@ -4903,7 +4615,6 @@ num;label
 85494;Doing other things
 19305;Doing other things
 32228;Swiping Up
-1181;Drumming Fingers
 100982;Swiping Down
 143673;Sliding Two Fingers Right
 121821;Doing other things
@@ -4925,7 +4636,6 @@ num;label
 126728;Doing other things
 55845;Stop Sign
 53773;No gesture
-121608;Drumming Fingers
 109778;Swiping Up
 80788;Doing other things
 98244;No gesture
@@ -4981,11 +4691,9 @@ num;label
 77872;Sliding Two Fingers Left
 89804;Zooming Out With Two Fingers
 39157;Doing other things
-118894;Drumming Fingers
 28831;Doing other things
 137742;Zooming Out With Two Fingers
 2065;Sliding Two Fingers Down
-1100;Drumming Fingers
 128780;Zooming Out With Two Fingers
 15044;Sliding Two Fingers Up
 106289;Sliding Two Fingers Down
@@ -5009,9 +4717,7 @@ num;label
 129305;Zooming Out With Two Fingers
 63207;Sliding Two Fingers Up
 134966;Zooming In With Two Fingers
-19905;Drumming Fingers
 48575;Thumb Up
-96279;Drumming Fingers
 87733;No gesture
 140994;Thumb Up
 116228;Thumb Down
@@ -5023,7 +4729,6 @@ num;label
 83727;Sliding Two Fingers Up
 37637;Swiping Down
 136258;Sliding Two Fingers Down
-125505;Drumming Fingers
 19410;No gesture
 78336;Sliding Two Fingers Right
 18321;Doing other things
@@ -5057,7 +4762,6 @@ num;label
 129878;Thumb Down
 53198;Swiping Down
 117027;Thumb Up
-52170;Drumming Fingers
 119647;Zooming Out With Two Fingers
 85775;Doing other things
 82821;Zooming In With Two Fingers
@@ -5067,27 +4771,22 @@ num;label
 123516;Doing other things
 112978;Stop Sign
 57344;Swiping Up
-11436;Drumming Fingers
 137001;Zooming Out With Two Fingers
 50450;Swiping Up
 31639;Zooming In With Two Fingers
 109060;Zooming Out With Two Fingers
 70352;Stop Sign
-7682;Drumming Fingers
 101130;Doing other things
 86071;Swiping Down
 89014;Sliding Two Fingers Down
 112801;Doing other things
 86114;Doing other things
 5156;Doing other things
-114356;Drumming Fingers
 101860;Zooming In With Two Fingers
 25707;Thumb Down
 73371;Swiping Down
 130229;Zooming Out With Two Fingers
-81803;Drumming Fingers
 138274;Doing other things
-18465;Drumming Fingers
 99652;Doing other things
 19811;Zooming In With Two Fingers
 74896;Swiping Right
@@ -5113,11 +4812,9 @@ num;label
 69965;Zooming Out With Two Fingers
 124029;Stop Sign
 3254;Stop Sign
-85989;Drumming Fingers
 15234;Swiping Up
 49129;Sliding Two Fingers Up
 100502;Sliding Two Fingers Left
-129094;Drumming Fingers
 31167;Sliding Two Fingers Down
 38296;Sliding Two Fingers Right
 39692;Sliding Two Fingers Up
@@ -5143,7 +4840,6 @@ num;label
 139524;Sliding Two Fingers Right
 84798;Swiping Down
 22253;Zooming In With Two Fingers
-26016;Drumming Fingers
 18232;Doing other things
 118696;Stop Sign
 139551;Thumb Up
@@ -5165,7 +4861,6 @@ num;label
 84875;Sliding Two Fingers Down
 86056;Sliding Two Fingers Down
 54379;Sliding Two Fingers Down
-73101;Drumming Fingers
 105424;Sliding Two Fingers Down
 141781;Swiping Right
 43292;Thumb Down
@@ -5188,7 +4883,6 @@ num;label
 91522;No gesture
 147058;Swiping Right
 67445;No gesture
-139244;Drumming Fingers
 72887;Sliding Two Fingers Left
 38670;Sliding Two Fingers Up
 20458;Thumb Up
@@ -5206,7 +4900,6 @@ num;label
 53180;Sliding Two Fingers Right
 64088;Sliding Two Fingers Left
 39792;Thumb Up
-11818;Drumming Fingers
 80363;Swiping Right
 141537;Sliding Two Fingers Right
 111209;Swiping Up
@@ -5220,9 +4913,7 @@ num;label
 11789;Sliding Two Fingers Right
 27401;Doing other things
 8419;Swiping Right
-93171;Drumming Fingers
 63957;Sliding Two Fingers Up
-66229;Drumming Fingers
 36905;Swiping Right
 70777;Swiping Right
 56334;Sliding Two Fingers Left
@@ -5251,7 +4942,6 @@ num;label
 87763;Zooming Out With Two Fingers
 105241;Sliding Two Fingers Right
 137109;Doing other things
-141589;Drumming Fingers
 7632;Swiping Right
 21098;Zooming Out With Two Fingers
 58149;Sliding Two Fingers Up
@@ -5259,7 +4949,6 @@ num;label
 102432;Sliding Two Fingers Down
 11976;Stop Sign
 12243;Thumb Up
-40213;Drumming Fingers
 42093;Doing other things
 102584;Zooming Out With Two Fingers
 145622;No gesture
@@ -5303,13 +4992,11 @@ num;label
 97022;No gesture
 36734;Doing other things
 112571;Zooming Out With Two Fingers
-66216;Drumming Fingers
 142428;Zooming Out With Two Fingers
 83618;Thumb Up
 38204;Sliding Two Fingers Left
 109526;Thumb Down
 88332;Stop Sign
-22509;Drumming Fingers
 20140;Thumb Down
 143295;Zooming Out With Two Fingers
 59977;Doing other things
@@ -5318,7 +5005,6 @@ num;label
 3584;Sliding Two Fingers Left
 39103;Swiping Down
 95475;Sliding Two Fingers Down
-106402;Drumming Fingers
 35871;Zooming Out With Two Fingers
 95124;Sliding Two Fingers Right
 83630;Thumb Down
@@ -5347,7 +5033,6 @@ num;label
 45454;No gesture
 108228;Swiping Up
 8529;No gesture
-134088;Drumming Fingers
 115723;Sliding Two Fingers Down
 69532;Thumb Up
 42896;Doing other things
@@ -5408,7 +5093,6 @@ num;label
 41800;Doing other things
 7810;Swiping Up
 52146;Zooming In With Two Fingers
-65838;Drumming Fingers
 85873;Sliding Two Fingers Right
 21645;Sliding Two Fingers Right
 10108;Swiping Up
@@ -5425,7 +5109,6 @@ num;label
 100729;Sliding Two Fingers Right
 420;Thumb Up
 68227;Zooming In With Two Fingers
-69923;Drumming Fingers
 43890;Stop Sign
 39844;Doing other things
 82437;Zooming In With Two Fingers
@@ -5442,13 +5125,10 @@ num;label
 51785;Swiping Up
 63484;Doing other things
 53072;Swiping Up
-135537;Drumming Fingers
 40649;Sliding Two Fingers Right
-89030;Drumming Fingers
 59282;Zooming In With Two Fingers
 117666;Sliding Two Fingers Down
 49236;Thumb Down
-46337;Drumming Fingers
 28942;Swiping Down
 123470;No gesture
 9545;Sliding Two Fingers Up
@@ -5492,17 +5172,13 @@ num;label
 89545;Zooming In With Two Fingers
 135385;No gesture
 141512;Swiping Up
-71048;Drumming Fingers
 128823;Doing other things
 11832;Thumb Down
-126397;Drumming Fingers
 59654;Sliding Two Fingers Right
 140847;Zooming Out With Two Fingers
 48349;Thumb Up
-110118;Drumming Fingers
 38000;Stop Sign
 32067;Swiping Up
-22485;Drumming Fingers
 103704;Sliding Two Fingers Down
 117851;Sliding Two Fingers Down
 17634;Swiping Down
@@ -5513,7 +5189,6 @@ num;label
 135381;Sliding Two Fingers Up
 130094;Stop Sign
 42882;Zooming Out With Two Fingers
-42911;Drumming Fingers
 58420;Thumb Up
 18284;Sliding Two Fingers Up
 129376;Thumb Up
@@ -5527,7 +5202,6 @@ num;label
 41687;Doing other things
 110745;Sliding Two Fingers Left
 146665;Zooming In With Two Fingers
-76707;Drumming Fingers
 106433;Sliding Two Fingers Left
 144039;Doing other things
 81322;Doing other things
@@ -5565,7 +5239,6 @@ num;label
 83906;Zooming Out With Two Fingers
 53569;Sliding Two Fingers Up
 132606;Sliding Two Fingers Right
-62150;Drumming Fingers
 88614;Sliding Two Fingers Left
 101773;Swiping Up
 34581;Swiping Up
@@ -5574,7 +5247,6 @@ num;label
 42714;Sliding Two Fingers Right
 86605;Swiping Down
 53536;Doing other things
-19109;Drumming Fingers
 6855;Thumb Down
 69832;Thumb Up
 107439;Swiping Up
@@ -5582,9 +5254,7 @@ num;label
 117648;Zooming Out With Two Fingers
 21314;Swiping Down
 37986;Doing other things
-57422;Drumming Fingers
 45364;Zooming In With Two Fingers
-130089;Drumming Fingers
 89698;Doing other things
 8718;Zooming In With Two Fingers
 17366;Swiping Down
@@ -5600,7 +5270,6 @@ num;label
 112947;Swiping Right
 9759;Stop Sign
 74702;Thumb Up
-119764;Drumming Fingers
 140908;Swiping Up
 53566;Thumb Up
 65202;Doing other things
@@ -5686,17 +5355,12 @@ num;label
 23826;Thumb Up
 107318;Swiping Down
 101093;Thumb Up
-62812;Drumming Fingers
 88993;Swiping Up
 133222;Doing other things
 49945;Stop Sign
 21958;No gesture
-119055;Drumming Fingers
 25110;Doing other things
 124281;Sliding Two Fingers Down
-76667;Drumming Fingers
-147072;Drumming Fingers
-72994;Drumming Fingers
 90017;Zooming Out With Two Fingers
 60449;Doing other things
 17803;Doing other things
@@ -5717,7 +5381,6 @@ num;label
 3850;Swiping Right
 67255;Doing other things
 84868;Sliding Two Fingers Left
-96504;Drumming Fingers
 37641;Swiping Down
 1450;Sliding Two Fingers Left
 49771;Swiping Down
@@ -5742,7 +5405,6 @@ num;label
 92323;Sliding Two Fingers Left
 46421;Doing other things
 2364;Zooming Out With Two Fingers
-114916;Drumming Fingers
 61494;Sliding Two Fingers Up
 66202;Swiping Right
 35228;Sliding Two Fingers Left
@@ -5752,7 +5414,6 @@ num;label
 75303;Sliding Two Fingers Left
 99060;Zooming In With Two Fingers
 121736;No gesture
-10223;Drumming Fingers
 69439;Sliding Two Fingers Down
 120914;Zooming In With Two Fingers
 70296;Stop Sign
@@ -5809,7 +5470,6 @@ num;label
 108029;Swiping Down
 69046;Thumb Up
 96712;Zooming In With Two Fingers
-115230;Drumming Fingers
 127810;Stop Sign
 27480;Swiping Up
 61192;Doing other things
@@ -5845,7 +5505,6 @@ num;label
 129169;Sliding Two Fingers Left
 39332;No gesture
 92826;Sliding Two Fingers Left
-63934;Drumming Fingers
 147225;Thumb Up
 42566;Thumb Down
 122962;Doing other things
@@ -5866,14 +5525,11 @@ num;label
 110611;Doing other things
 25105;Sliding Two Fingers Up
 47143;Sliding Two Fingers Down
-30771;Drumming Fingers
 11973;Thumb Up
 111005;Thumb Down
 119467;Swiping Down
 115563;Doing other things
 1680;Zooming In With Two Fingers
-30963;Drumming Fingers
-40920;Drumming Fingers
 65425;Sliding Two Fingers Left
 7374;Thumb Down
 44360;Sliding Two Fingers Left
@@ -5888,7 +5544,6 @@ num;label
 10061;Doing other things
 135050;No gesture
 38576;Stop Sign
-99223;Drumming Fingers
 90722;Swiping Down
 19439;Zooming In With Two Fingers
 100444;Sliding Two Fingers Up
@@ -5905,10 +5560,8 @@ num;label
 98766;Swiping Up
 109302;Swiping Down
 104889;Thumb Down
-34799;Drumming Fingers
 120266;Doing other things
 145412;Stop Sign
-133459;Drumming Fingers
 28349;Swiping Right
 141052;No gesture
 24377;Sliding Two Fingers Right
@@ -5933,14 +5586,12 @@ num;label
 110512;Swiping Down
 42835;Doing other things
 100208;Doing other things
-123551;Drumming Fingers
 18625;Sliding Two Fingers Right
 80089;Sliding Two Fingers Down
 98295;Thumb Up
 127800;Doing other things
 121279;Stop Sign
 94345;Zooming In With Two Fingers
-108762;Drumming Fingers
 32407;Stop Sign
 103039;Swiping Right
 103004;Swiping Right
@@ -5954,7 +5605,6 @@ num;label
 8364;Zooming In With Two Fingers
 125209;Thumb Up
 136596;Sliding Two Fingers Left
-86630;Drumming Fingers
 84741;Zooming In With Two Fingers
 23430;Swiping Right
 46082;Swiping Right
@@ -5965,7 +5615,6 @@ num;label
 129799;Sliding Two Fingers Right
 136528;Sliding Two Fingers Up
 137922;Doing other things
-44430;Drumming Fingers
 144063;Doing other things
 7283;No gesture
 93992;No gesture
@@ -5983,7 +5632,6 @@ num;label
 53872;Thumb Up
 82874;Swiping Right
 6788;Swiping Right
-41199;Drumming Fingers
 34382;Stop Sign
 13253;Swiping Right
 138562;Sliding Two Fingers Left
@@ -6002,7 +5650,6 @@ num;label
 94730;Doing other things
 9741;No gesture
 92327;Zooming In With Two Fingers
-119159;Drumming Fingers
 17271;Swiping Down
 18797;Thumb Down
 123187;Thumb Up
@@ -6029,7 +5676,6 @@ num;label
 38200;No gesture
 19092;Zooming In With Two Fingers
 47740;Thumb Up
-103297;Drumming Fingers
 6060;Zooming Out With Two Fingers
 47702;Doing other things
 133304;Thumb Down
@@ -6043,7 +5689,6 @@ num;label
 7533;Doing other things
 68745;No gesture
 36098;No gesture
-107274;Drumming Fingers
 75110;Doing other things
 56833;No gesture
 143838;Doing other things
@@ -6109,10 +5754,8 @@ num;label
 16753;Swiping Right
 84723;Doing other things
 17807;Stop Sign
-57053;Drumming Fingers
 72974;Sliding Two Fingers Left
 78203;Swiping Up
-16571;Drumming Fingers
 30098;No gesture
 118971;No gesture
 61014;No gesture
@@ -6120,7 +5763,6 @@ num;label
 78221;No gesture
 107294;No gesture
 41650;Swiping Down
-96228;Drumming Fingers
 130907;Sliding Two Fingers Down
 51919;No gesture
 100800;No gesture
@@ -6134,7 +5776,6 @@ num;label
 57536;Doing other things
 106321;Doing other things
 139534;Doing other things
-74418;Drumming Fingers
 94080;Thumb Down
 64625;Swiping Right
 24843;Thumb Up
@@ -6167,7 +5808,6 @@ num;label
 127462;Swiping Right
 99108;Sliding Two Fingers Down
 19637;Thumb Down
-24759;Drumming Fingers
 63073;Sliding Two Fingers Left
 34689;Stop Sign
 105738;Doing other things
@@ -6175,13 +5815,11 @@ num;label
 18191;Sliding Two Fingers Down
 36011;Doing other things
 138878;Swiping Up
-6774;Drumming Fingers
 85875;Swiping Up
 85081;Swiping Up
 119127;Thumb Down
 36817;Doing other things
 52949;Sliding Two Fingers Up
-53312;Drumming Fingers
 97727;Thumb Down
 124401;Sliding Two Fingers Right
 32566;Zooming Out With Two Fingers
@@ -6191,9 +5829,7 @@ num;label
 103030;Zooming In With Two Fingers
 135522;Zooming In With Two Fingers
 51112;Doing other things
-90941;Drumming Fingers
 131792;Zooming Out With Two Fingers
-20123;Drumming Fingers
 102874;Swiping Up
 66556;Zooming Out With Two Fingers
 75967;Swiping Down
@@ -6210,12 +5846,10 @@ num;label
 17530;Zooming Out With Two Fingers
 97094;Sliding Two Fingers Up
 145078;Zooming Out With Two Fingers
-80509;Drumming Fingers
 120911;Thumb Down
 21605;Sliding Two Fingers Right
 12616;Doing other things
 59581;Sliding Two Fingers Down
-4436;Drumming Fingers
 8810;Sliding Two Fingers Left
 50608;Sliding Two Fingers Right
 74942;Sliding Two Fingers Up
@@ -6223,7 +5857,6 @@ num;label
 130525;Swiping Right
 81773;Doing other things
 84008;Zooming Out With Two Fingers
-15285;Drumming Fingers
 28386;Thumb Up
 69273;Swiping Up
 22041;Doing other things
@@ -6231,14 +5864,12 @@ num;label
 123606;Swiping Right
 94874;Swiping Up
 74914;Doing other things
-97660;Drumming Fingers
 26084;Zooming Out With Two Fingers
 136047;Sliding Two Fingers Left
 28196;No gesture
 143873;Doing other things
 38420;Thumb Down
 54101;Sliding Two Fingers Left
-121352;Drumming Fingers
 72608;Swiping Right
 14286;Sliding Two Fingers Right
 63226;Doing other things
@@ -6247,15 +5878,12 @@ num;label
 107380;Thumb Down
 40690;Stop Sign
 19152;Swiping Right
-731;Drumming Fingers
 55787;Doing other things
 59026;Zooming Out With Two Fingers
 63865;Doing other things
 116126;Zooming In With Two Fingers
-40229;Drumming Fingers
 64818;Doing other things
 91179;Doing other things
-31870;Drumming Fingers
 74786;Thumb Down
 146322;Swiping Up
 92963;Zooming Out With Two Fingers
@@ -6321,7 +5949,6 @@ num;label
 99627;Thumb Down
 25480;Zooming Out With Two Fingers
 1310;Swiping Down
-60143;Drumming Fingers
 108963;Sliding Two Fingers Right
 64521;Stop Sign
 73053;Doing other things
@@ -6337,14 +5964,12 @@ num;label
 70486;Swiping Right
 46293;Zooming In With Two Fingers
 32442;Zooming Out With Two Fingers
-103455;Drumming Fingers
 94437;Sliding Two Fingers Down
 113124;Thumb Down
 13576;Doing other things
 33083;Sliding Two Fingers Left
 104189;Stop Sign
 135499;Doing other things
-104669;Drumming Fingers
 45791;Swiping Down
 18695;Thumb Up
 47769;Zooming Out With Two Fingers
@@ -6386,7 +6011,6 @@ num;label
 15772;Zooming In With Two Fingers
 72080;Thumb Down
 46650;Stop Sign
-1673;Drumming Fingers
 6154;Zooming Out With Two Fingers
 69989;No gesture
 99100;Swiping Up
@@ -6396,7 +6020,6 @@ num;label
 74970;Zooming In With Two Fingers
 55996;Thumb Up
 127289;Thumb Up
-17204;Drumming Fingers
 60433;Doing other things
 18272;Thumb Up
 92434;Swiping Up
@@ -6427,15 +6050,12 @@ num;label
 111758;Sliding Two Fingers Left
 85294;Swiping Up
 85058;Zooming In With Two Fingers
-59487;Drumming Fingers
 100232;Swiping Down
 2324;Doing other things
 7378;Doing other things
 65722;Sliding Two Fingers Left
-125266;Drumming Fingers
 69536;Zooming In With Two Fingers
 9076;Sliding Two Fingers Up
-86505;Drumming Fingers
 122181;Thumb Down
 90745;No gesture
 130430;Stop Sign
@@ -6447,7 +6067,6 @@ num;label
 142349;Doing other things
 127758;Zooming Out With Two Fingers
 115471;Zooming Out With Two Fingers
-23524;Drumming Fingers
 98573;Sliding Two Fingers Right
 71752;Thumb Down
 101951;Swiping Up
@@ -6481,7 +6100,6 @@ num;label
 88072;Swiping Right
 96252;Swiping Up
 34278;Swiping Down
-110288;Drumming Fingers
 143781;Sliding Two Fingers Left
 108702;Thumb Down
 113062;Sliding Two Fingers Down
@@ -6499,12 +6117,10 @@ num;label
 5621;Doing other things
 140259;No gesture
 5760;Thumb Up
-86675;Drumming Fingers
 104701;Sliding Two Fingers Right
 142418;Swiping Down
 104434;Sliding Two Fingers Right
 133614;Doing other things
-10821;Drumming Fingers
 145599;Doing other things
 14260;Thumb Up
 111982;Thumb Down
@@ -6529,10 +6145,8 @@ num;label
 39790;Doing other things
 39060;Stop Sign
 72019;Swiping Up
-132268;Drumming Fingers
 89656;Zooming Out With Two Fingers
 118935;Thumb Down
-26727;Drumming Fingers
 144785;Sliding Two Fingers Up
 134166;Thumb Up
 3516;Thumb Down
@@ -6541,12 +6155,10 @@ num;label
 105499;Swiping Right
 110561;Zooming Out With Two Fingers
 117219;Swiping Right
-127977;Drumming Fingers
 99284;Sliding Two Fingers Left
 60459;Swiping Right
 11068;Sliding Two Fingers Right
 94372;Thumb Down
-119528;Drumming Fingers
 36998;Swiping Down
 27308;Stop Sign
 112150;Stop Sign
@@ -6558,15 +6170,12 @@ num;label
 81367;Swiping Down
 107069;Swiping Up
 388;Zooming In With Two Fingers
-76013;Drumming Fingers
 50003;Sliding Two Fingers Down
 137949;Stop Sign
 19362;No gesture
-87823;Drumming Fingers
 126295;Zooming Out With Two Fingers
 139979;No gesture
 96256;Stop Sign
-62760;Drumming Fingers
 20333;Swiping Right
 71934;Zooming Out With Two Fingers
 44813;Zooming Out With Two Fingers
@@ -6577,7 +6186,6 @@ num;label
 132446;Zooming Out With Two Fingers
 135575;Sliding Two Fingers Right
 10537;Zooming In With Two Fingers
-13397;Drumming Fingers
 72555;Sliding Two Fingers Up
 30491;Sliding Two Fingers Left
 129670;Doing other things
@@ -6635,11 +6243,9 @@ num;label
 34193;Doing other things
 48685;Sliding Two Fingers Right
 19958;Sliding Two Fingers Right
-144012;Drumming Fingers
 49156;Doing other things
 144357;Swiping Down
 3368;Stop Sign
-112936;Drumming Fingers
 47607;Sliding Two Fingers Right
 93314;Zooming Out With Two Fingers
 142190;Sliding Two Fingers Right
@@ -6667,9 +6273,7 @@ num;label
 67683;Zooming In With Two Fingers
 116376;Thumb Up
 50977;Sliding Two Fingers Up
-140029;Drumming Fingers
 133511;Swiping Up
-73897;Drumming Fingers
 20438;Sliding Two Fingers Left
 32016;Zooming Out With Two Fingers
 93277;Doing other things
@@ -6689,14 +6293,11 @@ num;label
 45876;Zooming In With Two Fingers
 9651;Sliding Two Fingers Up
 34593;Doing other things
-126784;Drumming Fingers
-95795;Drumming Fingers
 31199;Sliding Two Fingers Up
 12472;Doing other things
 77305;Sliding Two Fingers Left
 140256;Sliding Two Fingers Down
 57432;Doing other things
-89340;Drumming Fingers
 58746;Swiping Down
 100793;Swiping Up
 112862;Swiping Down
@@ -6706,14 +6307,11 @@ num;label
 134573;Swiping Right
 112080;Swiping Right
 140924;Thumb Down
-60104;Drumming Fingers
 18416;Thumb Up
 37227;Sliding Two Fingers Left
 85441;Zooming Out With Two Fingers
-41655;Drumming Fingers
 1473;No gesture
 53803;Doing other things
-119593;Drumming Fingers
 82446;Swiping Up
 86408;Swiping Down
 127260;Thumb Up
@@ -6727,7 +6325,6 @@ num;label
 113745;Stop Sign
 56604;Swiping Down
 62230;Doing other things
-122916;Drumming Fingers
 37543;Sliding Two Fingers Down
 77071;Doing other things
 53509;Sliding Two Fingers Up
@@ -6755,7 +6352,6 @@ num;label
 98067;Zooming In With Two Fingers
 4717;Swiping Down
 46258;Doing other things
-125479;Drumming Fingers
 144539;Sliding Two Fingers Right
 133254;Sliding Two Fingers Up
 79259;Sliding Two Fingers Right
@@ -6779,7 +6375,6 @@ num;label
 12597;Stop Sign
 80327;Swiping Right
 1089;Swiping Right
-4704;Drumming Fingers
 26160;Sliding Two Fingers Up
 146082;Sliding Two Fingers Down
 48942;Sliding Two Fingers Left
@@ -6793,8 +6388,6 @@ num;label
 58888;Zooming Out With Two Fingers
 143501;Swiping Down
 42349;No gesture
-104595;Drumming Fingers
-8672;Drumming Fingers
 128929;Doing other things
 131629;Stop Sign
 141829;Swiping Up
@@ -6807,9 +6400,7 @@ num;label
 22122;Thumb Up
 143605;Swiping Up
 92741;No gesture
-135746;Drumming Fingers
 39195;Doing other things
-116418;Drumming Fingers
 137257;Sliding Two Fingers Down
 9725;Sliding Two Fingers Down
 129492;Thumb Down
@@ -6817,7 +6408,6 @@ num;label
 35113;Swiping Down
 107400;Swiping Up
 144230;Sliding Two Fingers Down
-11153;Drumming Fingers
 58646;Thumb Up
 78516;No gesture
 56965;Thumb Up
@@ -6833,9 +6423,7 @@ num;label
 134300;Swiping Up
 53585;Sliding Two Fingers Up
 55690;Zooming Out With Two Fingers
-103733;Drumming Fingers
 79853;Thumb Down
-57035;Drumming Fingers
 53397;Zooming Out With Two Fingers
 112751;Sliding Two Fingers Down
 64603;Sliding Two Fingers Left
@@ -6859,7 +6447,6 @@ num;label
 26081;Zooming In With Two Fingers
 116044;Zooming In With Two Fingers
 76052;Sliding Two Fingers Up
-52733;Drumming Fingers
 142605;Zooming Out With Two Fingers
 82621;Sliding Two Fingers Left
 117021;Sliding Two Fingers Left
@@ -6871,12 +6458,10 @@ num;label
 102165;Doing other things
 94891;Sliding Two Fingers Down
 58826;Zooming In With Two Fingers
-52120;Drumming Fingers
 14332;Swiping Down
 116091;Sliding Two Fingers Down
 109615;Thumb Up
 2719;Thumb Up
-5071;Drumming Fingers
 96976;Sliding Two Fingers Down
 51227;Swiping Up
 136395;Sliding Two Fingers Up
@@ -6899,13 +6484,11 @@ num;label
 23882;Thumb Down
 35072;Doing other things
 99159;Swiping Right
-9810;Drumming Fingers
 126565;Sliding Two Fingers Left
 146080;Sliding Two Fingers Right
 100872;Doing other things
 28120;Swiping Down
 71167;Thumb Down
-113497;Drumming Fingers
 14231;Sliding Two Fingers Left
 110459;Sliding Two Fingers Left
 6059;Swiping Right
@@ -6919,7 +6502,6 @@ num;label
 34485;Stop Sign
 37417;Sliding Two Fingers Down
 32284;Doing other things
-51732;Drumming Fingers
 108186;No gesture
 90887;Zooming In With Two Fingers
 3782;Doing other things
@@ -6991,20 +6573,17 @@ num;label
 32648;Zooming In With Two Fingers
 60742;No gesture
 139663;Sliding Two Fingers Up
-86080;Drumming Fingers
 128799;Sliding Two Fingers Down
 101339;Swiping Down
 113193;Doing other things
 15263;Thumb Up
 64858;Doing other things
 15743;Sliding Two Fingers Left
-43096;Drumming Fingers
 141528;Zooming In With Two Fingers
 69374;Doing other things
 12794;Thumb Down
 25415;Zooming In With Two Fingers
 36472;Sliding Two Fingers Up
-13448;Drumming Fingers
 36327;Sliding Two Fingers Right
 111082;Zooming In With Two Fingers
 87917;Thumb Down
@@ -7014,7 +6593,6 @@ num;label
 84631;Zooming In With Two Fingers
 146104;Thumb Up
 145725;Zooming In With Two Fingers
-29176;Drumming Fingers
 51940;Thumb Up
 66420;Swiping Up
 72388;No gesture
@@ -7022,32 +6600,26 @@ num;label
 86068;Sliding Two Fingers Left
 24405;Sliding Two Fingers Right
 66234;Thumb Up
-7060;Drumming Fingers
 97599;Sliding Two Fingers Right
 102508;Stop Sign
 103811;Zooming In With Two Fingers
-134487;Drumming Fingers
 120550;Stop Sign
 2860;Thumb Up
 9431;Sliding Two Fingers Right
 26043;Sliding Two Fingers Up
 72547;Doing other things
 49233;Sliding Two Fingers Down
-33552;Drumming Fingers
 1587;Swiping Up
 77843;Doing other things
 4956;Zooming In With Two Fingers
 19892;Swiping Up
-94027;Drumming Fingers
 91201;No gesture
-85658;Drumming Fingers
 132394;No gesture
 129098;Swiping Down
 21197;Zooming In With Two Fingers
 57941;Swiping Up
 65526;Zooming In With Two Fingers
 7231;Swiping Up
-37994;Drumming Fingers
 126414;Doing other things
 122415;Zooming In With Two Fingers
 89994;Swiping Up
@@ -7061,7 +6633,6 @@ num;label
 143269;Thumb Up
 29323;Sliding Two Fingers Left
 87732;Swiping Down
-144342;Drumming Fingers
 95028;Swiping Down
 65764;Doing other things
 136801;Swiping Down
@@ -7079,14 +6650,12 @@ num;label
 64626;Doing other things
 123403;Doing other things
 134402;Sliding Two Fingers Right
-3762;Drumming Fingers
 16116;Swiping Right
 136754;Doing other things
 16059;Doing other things
 12661;No gesture
 120568;Doing other things
 95414;Swiping Down
-18601;Drumming Fingers
 16292;Sliding Two Fingers Up
 70056;Doing other things
 64442;Thumb Down
@@ -7149,7 +6718,6 @@ num;label
 81040;Zooming In With Two Fingers
 114596;Swiping Up
 61595;Stop Sign
-6009;Drumming Fingers
 112765;Swiping Down
 12896;Doing other things
 70111;Swiping Down
@@ -7176,9 +6744,7 @@ num;label
 101720;Doing other things
 43872;Swiping Right
 56136;Doing other things
-147766;Drumming Fingers
 24023;Stop Sign
-36423;Drumming Fingers
 68378;Doing other things
 16030;Thumb Down
 48179;Sliding Two Fingers Right
@@ -7201,7 +6767,6 @@ num;label
 90830;Swiping Down
 13054;Thumb Up
 80589;Zooming Out With Two Fingers
-23284;Drumming Fingers
 134674;Doing other things
 92633;Swiping Right
 108603;Zooming Out With Two Fingers
@@ -7223,7 +6788,6 @@ num;label
 76023;Swiping Up
 4583;Stop Sign
 21664;Swiping Down
-49619;Drumming Fingers
 41849;Sliding Two Fingers Up
 80597;Doing other things
 61000;Doing other things
@@ -7243,7 +6807,6 @@ num;label
 17913;Swiping Up
 110855;Sliding Two Fingers Down
 6424;Swiping Right
-104658;Drumming Fingers
 104239;No gesture
 69627;Doing other things
 118101;Swiping Down
@@ -7254,8 +6817,6 @@ num;label
 14574;Doing other things
 1921;Doing other things
 859;Sliding Two Fingers Right
-93083;Drumming Fingers
-137386;Drumming Fingers
 26195;Sliding Two Fingers Down
 75470;Swiping Right
 119885;Doing other things
@@ -7293,7 +6854,6 @@ num;label
 115774;Stop Sign
 33642;Sliding Two Fingers Right
 47995;Doing other things
-47566;Drumming Fingers
 28810;Doing other things
 97352;Sliding Two Fingers Left
 78970;Doing other things
@@ -7315,13 +6875,11 @@ num;label
 12085;Thumb Down
 11981;Doing other things
 123326;Sliding Two Fingers Down
-75610;Drumming Fingers
 122535;Sliding Two Fingers Left
 121370;Doing other things
 125429;Swiping Up
 69896;Sliding Two Fingers Up
 75093;Doing other things
-115777;Drumming Fingers
 140381;Sliding Two Fingers Right
 36020;Doing other things
 10210;Doing other things
@@ -7335,7 +6893,6 @@ num;label
 46197;Doing other things
 146443;Swiping Down
 111240;Doing other things
-96602;Drumming Fingers
 42110;Sliding Two Fingers Left
 44206;Swiping Down
 111283;Doing other things
@@ -7351,13 +6908,10 @@ num;label
 840;Zooming Out With Two Fingers
 72986;Swiping Down
 114542;Sliding Two Fingers Up
-85565;Drumming Fingers
 71659;Thumb Up
 16071;Sliding Two Fingers Left
 77167;Sliding Two Fingers Right
-37112;Drumming Fingers
 124497;Swiping Right
-51154;Drumming Fingers
 27312;Swiping Down
 99212;Swiping Down
 8625;Stop Sign
@@ -7365,13 +6919,11 @@ num;label
 107571;Zooming In With Two Fingers
 77803;Swiping Up
 142724;Doing other things
-144333;Drumming Fingers
 32385;Swiping Right
 71905;Swiping Right
 130984;No gesture
 139126;Sliding Two Fingers Up
 98356;Sliding Two Fingers Right
-2679;Drumming Fingers
 130470;Doing other things
 123330;Sliding Two Fingers Down
 55737;Sliding Two Fingers Down
@@ -7380,7 +6932,6 @@ num;label
 135995;Zooming Out With Two Fingers
 84729;Zooming Out With Two Fingers
 118034;Sliding Two Fingers Down
-87999;Drumming Fingers
 146435;Sliding Two Fingers Up
 43835;Thumb Up
 2791;Zooming Out With Two Fingers
@@ -7395,7 +6946,6 @@ num;label
 81458;Sliding Two Fingers Right
 143514;Stop Sign
 129982;Thumb Up
-92538;Drumming Fingers
 138926;Doing other things
 69943;No gesture
 106891;Doing other things
@@ -7407,12 +6957,10 @@ num;label
 75581;Sliding Two Fingers Up
 103169;Zooming In With Two Fingers
 132978;Stop Sign
-134789;Drumming Fingers
 55054;Sliding Two Fingers Right
 1013;Zooming In With Two Fingers
 142585;Zooming Out With Two Fingers
 59427;Doing other things
-9398;Drumming Fingers
 44606;Swiping Down
 75510;Swiping Up
 53447;Zooming In With Two Fingers
@@ -7421,15 +6969,12 @@ num;label
 89573;Zooming In With Two Fingers
 92780;Sliding Two Fingers Right
 17652;Sliding Two Fingers Down
-16964;Drumming Fingers
 140962;Doing other things
 43651;Doing other things
-43545;Drumming Fingers
 58811;Sliding Two Fingers Left
 127429;No gesture
 125923;Swiping Right
 56178;Doing other things
-106471;Drumming Fingers
 68964;Zooming In With Two Fingers
 108125;Sliding Two Fingers Down
 34649;Swiping Up
@@ -7445,7 +6990,6 @@ num;label
 39171;Thumb Down
 15853;Stop Sign
 21453;Swiping Right
-39562;Drumming Fingers
 141451;Sliding Two Fingers Left
 6629;Zooming Out With Two Fingers
 20402;Swiping Up
@@ -7460,8 +7004,6 @@ num;label
 123024;No gesture
 101436;Zooming In With Two Fingers
 7334;Sliding Two Fingers Right
-94548;Drumming Fingers
-98643;Drumming Fingers
 21343;Stop Sign
 24251;Thumb Up
 87535;Swiping Right
@@ -7519,7 +7061,6 @@ num;label
 89527;Stop Sign
 36003;Sliding Two Fingers Right
 82860;Zooming Out With Two Fingers
-117599;Drumming Fingers
 37781;No gesture
 87091;Swiping Down
 44791;Doing other things
@@ -7528,7 +7069,6 @@ num;label
 44050;Doing other things
 16836;Sliding Two Fingers Left
 6946;Sliding Two Fingers Down
-97681;Drumming Fingers
 144536;Stop Sign
 51611;Zooming Out With Two Fingers
 99865;Thumb Down
@@ -7590,7 +7130,6 @@ num;label
 42509;Doing other things
 33027;Sliding Two Fingers Left
 25161;Swiping Up
-81933;Drumming Fingers
 762;Thumb Down
 137957;Sliding Two Fingers Left
 7006;Sliding Two Fingers Down
@@ -7600,8 +7139,6 @@ num;label
 41071;Doing other things
 127084;Zooming Out With Two Fingers
 61979;Zooming Out With Two Fingers
-95118;Drumming Fingers
-111536;Drumming Fingers
 44335;Sliding Two Fingers Left
 79882;Sliding Two Fingers Down
 23504;Doing other things
@@ -7624,10 +7161,8 @@ num;label
 78023;Thumb Down
 38850;Doing other things
 58390;Sliding Two Fingers Down
-85282;Drumming Fingers
 111666;Swiping Up
 138277;Zooming Out With Two Fingers
-84048;Drumming Fingers
 127906;Swiping Down
 72131;Doing other things
 58115;Stop Sign
@@ -7635,11 +7170,9 @@ num;label
 13303;Swiping Right
 89856;Sliding Two Fingers Right
 24302;No gesture
-107144;Drumming Fingers
 21710;Zooming In With Two Fingers
 99582;Doing other things
 79494;Swiping Right
-88132;Drumming Fingers
 54132;Sliding Two Fingers Left
 115197;Zooming In With Two Fingers
 126127;Doing other things
@@ -7654,7 +7187,6 @@ num;label
 144424;Doing other things
 147281;Zooming In With Two Fingers
 39432;Stop Sign
-143876;Drumming Fingers
 58995;Thumb Up
 53971;Thumb Up
 87923;Swiping Right
@@ -7678,7 +7210,6 @@ num;label
 10747;Doing other things
 118999;Swiping Right
 129085;Doing other things
-21085;Drumming Fingers
 89833;Doing other things
 234;Stop Sign
 46950;Swiping Right
@@ -7692,7 +7223,6 @@ num;label
 23705;Thumb Up
 108072;Zooming In With Two Fingers
 62870;No gesture
-25864;Drumming Fingers
 44482;Doing other things
 142332;Swiping Down
 72312;Swiping Down
@@ -7705,11 +7235,8 @@ num;label
 43525;Sliding Two Fingers Left
 57415;Doing other things
 67635;Sliding Two Fingers Right
-65296;Drumming Fingers
 22647;Thumb Up
-24574;Drumming Fingers
 40141;Sliding Two Fingers Left
-26825;Drumming Fingers
 97944;Sliding Two Fingers Left
 81832;Doing other things
 21104;Sliding Two Fingers Down
@@ -7770,7 +7297,6 @@ num;label
 26554;Doing other things
 135556;Sliding Two Fingers Left
 58961;Zooming Out With Two Fingers
-55944;Drumming Fingers
 45397;Swiping Up
 52748;Sliding Two Fingers Right
 40778;Thumb Up
@@ -7814,9 +7340,7 @@ num;label
 91641;Swiping Right
 25477;Sliding Two Fingers Up
 40509;Zooming In With Two Fingers
-43528;Drumming Fingers
 136030;Zooming In With Two Fingers
-106548;Drumming Fingers
 6215;Sliding Two Fingers Up
 62496;Zooming Out With Two Fingers
 116294;Doing other things
@@ -7836,7 +7360,6 @@ num;label
 31473;Thumb Up
 65987;Sliding Two Fingers Right
 117315;Zooming Out With Two Fingers
-17329;Drumming Fingers
 10230;Swiping Down
 33960;Doing other things
 41579;Doing other things
@@ -7847,20 +7370,15 @@ num;label
 124126;Thumb Up
 134528;Sliding Two Fingers Right
 3830;Doing other things
-128790;Drumming Fingers
 62055;Sliding Two Fingers Up
 118932;Swiping Down
 78508;Sliding Two Fingers Left
-84502;Drumming Fingers
-135312;Drumming Fingers
 66064;Swiping Down
 24779;No gesture
 139633;Swiping Up
-91688;Drumming Fingers
 138126;Sliding Two Fingers Up
 35854;Sliding Two Fingers Right
 43137;Doing other things
-100001;Drumming Fingers
 57922;Stop Sign
 47877;Sliding Two Fingers Down
 140882;Doing other things
@@ -7870,7 +7388,6 @@ num;label
 30768;Doing other things
 127041;Sliding Two Fingers Up
 24428;Stop Sign
-31119;Drumming Fingers
 88052;Zooming Out With Two Fingers
 107596;Swiping Right
 123332;Zooming Out With Two Fingers
@@ -7888,11 +7405,9 @@ num;label
 80732;Doing other things
 24597;Swiping Down
 46862;Sliding Two Fingers Up
-5880;Drumming Fingers
 146758;Doing other things
 33574;Zooming In With Two Fingers
 94518;Sliding Two Fingers Up
-103822;Drumming Fingers
 106169;No gesture
 10533;Sliding Two Fingers Right
 57089;Swiping Up
@@ -7917,9 +7432,7 @@ num;label
 105351;Thumb Up
 73805;Thumb Down
 124914;Zooming In With Two Fingers
-52013;Drumming Fingers
 18343;Doing other things
-94228;Drumming Fingers
 1251;Swiping Up
 116437;Sliding Two Fingers Right
 5476;Doing other things
@@ -7944,10 +7457,8 @@ num;label
 123447;Sliding Two Fingers Right
 64418;Thumb Down
 79998;Sliding Two Fingers Down
-66415;Drumming Fingers
 30672;Doing other things
 61548;Stop Sign
-8659;Drumming Fingers
 95671;Doing other things
 54336;Doing other things
 71010;Sliding Two Fingers Left
@@ -7963,7 +7474,6 @@ num;label
 120369;Swiping Up
 50594;Sliding Two Fingers Up
 90154;Swiping Right
-146754;Drumming Fingers
 109612;Sliding Two Fingers Left
 115380;Zooming In With Two Fingers
 105277;Doing other things
@@ -8005,19 +7515,16 @@ num;label
 33572;Sliding Two Fingers Left
 42388;No gesture
 139038;Doing other things
-139648;Drumming Fingers
 82781;Sliding Two Fingers Down
 121232;Sliding Two Fingers Left
 43677;Swiping Right
 120832;Thumb Up
-127894;Drumming Fingers
 110159;Zooming In With Two Fingers
 90264;Zooming In With Two Fingers
 111347;Swiping Down
 53277;Stop Sign
 139682;Stop Sign
 83481;Sliding Two Fingers Up
-72359;Drumming Fingers
 128555;Sliding Two Fingers Left
 34126;Thumb Down
 95181;Doing other things
@@ -8052,7 +7559,6 @@ num;label
 120445;Sliding Two Fingers Right
 119934;Doing other things
 108821;Stop Sign
-144511;Drumming Fingers
 79218;Swiping Down
 67387;Sliding Two Fingers Down
 34457;Zooming In With Two Fingers
@@ -8069,10 +7575,8 @@ num;label
 97231;Stop Sign
 139208;Doing other things
 40913;Doing other things
-62033;Drumming Fingers
 128424;Sliding Two Fingers Right
 24133;Zooming In With Two Fingers
-34469;Drumming Fingers
 55717;Sliding Two Fingers Up
 22893;No gesture
 90982;Swiping Right
@@ -8118,19 +7622,16 @@ num;label
 114668;Swiping Right
 17631;Zooming In With Two Fingers
 2568;Stop Sign
-41114;Drumming Fingers
 4091;Zooming In With Two Fingers
 121412;Swiping Up
 121420;Stop Sign
 124299;Thumb Down
 113180;Zooming In With Two Fingers
 111515;Sliding Two Fingers Down
-70502;Drumming Fingers
 28018;Doing other things
 16029;Stop Sign
 120211;Swiping Right
 14226;Swiping Right
-53150;Drumming Fingers
 93804;Swiping Down
 86534;Sliding Two Fingers Right
 131488;No gesture
@@ -8151,7 +7652,6 @@ num;label
 88402;Thumb Up
 42332;Sliding Two Fingers Down
 94073;Sliding Two Fingers Down
-132845;Drumming Fingers
 94882;Sliding Two Fingers Down
 147492;Sliding Two Fingers Up
 53839;Swiping Down
@@ -8159,17 +7659,14 @@ num;label
 46476;Sliding Two Fingers Down
 78645;Stop Sign
 121103;Swiping Right
-86964;Drumming Fingers
 93185;Thumb Down
 76386;Sliding Two Fingers Down
-104466;Drumming Fingers
 14086;Thumb Up
 138943;Sliding Two Fingers Down
 33064;Zooming Out With Two Fingers
 15958;Zooming In With Two Fingers
 42954;Doing other things
 104606;Zooming In With Two Fingers
-102615;Drumming Fingers
 9735;Sliding Two Fingers Down
 82117;Doing other things
 25770;Swiping Down
@@ -8180,7 +7677,6 @@ num;label
 41279;Doing other things
 42934;Doing other things
 7100;Sliding Two Fingers Right
-17249;Drumming Fingers
 68208;Sliding Two Fingers Down
 147729;Doing other things
 64187;Swiping Down
@@ -8188,14 +7684,12 @@ num;label
 124659;No gesture
 31242;Doing other things
 71497;Sliding Two Fingers Left
-15717;Drumming Fingers
 93328;Sliding Two Fingers Up
 14597;Zooming Out With Two Fingers
 19706;No gesture
 50906;Thumb Up
 41560;Sliding Two Fingers Down
 38859;Doing other things
-80446;Drumming Fingers
 9439;Thumb Down
 144655;Swiping Right
 14762;Swiping Right
@@ -8217,7 +7711,6 @@ num;label
 65347;Stop Sign
 20404;Sliding Two Fingers Right
 83632;Thumb Up
-70152;Drumming Fingers
 77500;Thumb Up
 34664;Sliding Two Fingers Down
 22984;Stop Sign
@@ -8238,7 +7731,6 @@ num;label
 30775;Stop Sign
 2904;Doing other things
 55011;Sliding Two Fingers Down
-98945;Drumming Fingers
 76601;Sliding Two Fingers Up
 61162;Swiping Up
 27888;Zooming Out With Two Fingers
@@ -8249,7 +7741,6 @@ num;label
 31449;Sliding Two Fingers Up
 80772;Sliding Two Fingers Down
 38041;Sliding Two Fingers Right
-114031;Drumming Fingers
 1004;Zooming Out With Two Fingers
 89694;Zooming Out With Two Fingers
 100460;Doing other things
@@ -8349,7 +7840,6 @@ num;label
 17038;Doing other things
 129462;Stop Sign
 12173;Swiping Up
-61399;Drumming Fingers
 83741;Doing other things
 58532;Thumb Down
 138538;Doing other things
@@ -8359,7 +7849,6 @@ num;label
 64366;Thumb Up
 137480;Doing other things
 136925;Doing other things
-22226;Drumming Fingers
 64294;Stop Sign
 123548;Swiping Up
 135143;Sliding Two Fingers Up
@@ -8407,7 +7896,6 @@ num;label
 110959;Sliding Two Fingers Up
 129202;Thumb Up
 123142;Doing other things
-66897;Drumming Fingers
 82321;Doing other things
 30621;Thumb Up
 39533;Sliding Two Fingers Up
@@ -8427,7 +7915,6 @@ num;label
 100264;No gesture
 32378;Sliding Two Fingers Right
 143788;Swiping Down
-19521;Drumming Fingers
 50060;Thumb Down
 110522;Thumb Up
 29748;Zooming In With Two Fingers
@@ -8448,20 +7935,17 @@ num;label
 104305;Sliding Two Fingers Down
 29915;No gesture
 106112;Zooming Out With Two Fingers
-85064;Drumming Fingers
 50773;Stop Sign
 57997;Sliding Two Fingers Up
 81959;Thumb Up
 97965;Thumb Down
 147283;Sliding Two Fingers Right
 57706;Thumb Down
-145632;Drumming Fingers
 43035;Zooming In With Two Fingers
 81675;Sliding Two Fingers Left
 116524;Swiping Down
 84536;Zooming Out With Two Fingers
 134692;Doing other things
-87680;Drumming Fingers
 103003;Doing other things
 119942;Sliding Two Fingers Right
 123901;Zooming In With Two Fingers
@@ -8488,7 +7972,6 @@ num;label
 147392;Zooming In With Two Fingers
 111450;Doing other things
 123327;Swiping Right
-45968;Drumming Fingers
 19946;Sliding Two Fingers Up
 13770;Stop Sign
 56894;Swiping Up
@@ -8506,7 +7989,6 @@ num;label
 41368;Zooming Out With Two Fingers
 90478;Thumb Down
 15612;Thumb Down
-97926;Drumming Fingers
 88233;Zooming In With Two Fingers
 40117;Doing other things
 57348;Stop Sign
@@ -8535,7 +8017,6 @@ num;label
 83694;Doing other things
 22578;Thumb Up
 17172;Sliding Two Fingers Up
-87153;Drumming Fingers
 137375;Doing other things
 133845;Sliding Two Fingers Up
 134937;Doing other things
@@ -8545,7 +8026,6 @@ num;label
 142691;Zooming In With Two Fingers
 83439;Sliding Two Fingers Left
 147223;Doing other things
-127032;Drumming Fingers
 112962;Sliding Two Fingers Up
 85650;Stop Sign
 99815;Sliding Two Fingers Up
@@ -8555,11 +8035,9 @@ num;label
 89782;Doing other things
 93737;Doing other things
 126441;Stop Sign
-8740;Drumming Fingers
 40497;Doing other things
 103843;Stop Sign
 31519;Doing other things
-41729;Drumming Fingers
 86713;Thumb Up
 88284;Thumb Up
 1249;Zooming In With Two Fingers
@@ -8569,7 +8047,6 @@ num;label
 30825;Doing other things
 147009;Sliding Two Fingers Right
 126704;Doing other things
-115836;Drumming Fingers
 28001;Doing other things
 83783;Sliding Two Fingers Up
 72775;Swiping Down
@@ -8593,7 +8070,6 @@ num;label
 71367;Swiping Up
 57862;Zooming In With Two Fingers
 84358;Doing other things
-111607;Drumming Fingers
 120737;Zooming In With Two Fingers
 66636;Zooming Out With Two Fingers
 4008;Sliding Two Fingers Up
@@ -8603,7 +8079,6 @@ num;label
 23367;Swiping Up
 122928;No gesture
 117668;Doing other things
-64540;Drumming Fingers
 15413;Swiping Down
 9558;No gesture
 7779;Thumb Down
@@ -8624,7 +8099,6 @@ num;label
 74040;Sliding Two Fingers Left
 99552;Sliding Two Fingers Down
 2120;Stop Sign
-22012;Drumming Fingers
 12567;Doing other things
 112295;Thumb Up
 38862;Sliding Two Fingers Left
@@ -8679,7 +8153,6 @@ num;label
 40021;Sliding Two Fingers Right
 20246;Sliding Two Fingers Up
 97575;Sliding Two Fingers Up
-98890;Drumming Fingers
 95010;Sliding Two Fingers Right
 45119;Sliding Two Fingers Up
 58824;No gesture
@@ -8701,7 +8174,6 @@ num;label
 118952;Swiping Right
 18100;Sliding Two Fingers Down
 73049;Sliding Two Fingers Right
-93178;Drumming Fingers
 106937;Stop Sign
 113642;Thumb Down
 62219;Stop Sign
@@ -8715,10 +8187,8 @@ num;label
 14864;Sliding Two Fingers Right
 52523;Thumb Down
 8118;Doing other things
-6381;Drumming Fingers
 78856;Sliding Two Fingers Down
 118196;Thumb Up
-25136;Drumming Fingers
 36520;Swiping Down
 55696;Sliding Two Fingers Up
 86899;Zooming In With Two Fingers
@@ -8741,7 +8211,6 @@ num;label
 24840;Zooming In With Two Fingers
 58937;Sliding Two Fingers Down
 95223;Doing other things
-84254;Drumming Fingers
 87419;Swiping Down
 52308;Sliding Two Fingers Left
 63469;Swiping Up
@@ -8755,7 +8224,6 @@ num;label
 51280;Sliding Two Fingers Up
 5802;Zooming In With Two Fingers
 96077;Swiping Right
-99741;Drumming Fingers
 110407;Zooming In With Two Fingers
 26466;Doing other things
 20179;Sliding Two Fingers Down
@@ -8774,11 +8242,9 @@ num;label
 66741;Sliding Two Fingers Up
 78254;Stop Sign
 79807;Thumb Down
-136694;Drumming Fingers
 42720;Sliding Two Fingers Right
 84531;Stop Sign
 38261;Sliding Two Fingers Down
-69670;Drumming Fingers
 117522;Doing other things
 13890;Swiping Right
 26792;Thumb Up
@@ -8796,7 +8262,6 @@ num;label
 24964;Zooming Out With Two Fingers
 23347;Sliding Two Fingers Left
 14097;Sliding Two Fingers Left
-97044;Drumming Fingers
 136208;Sliding Two Fingers Right
 119381;Thumb Down
 64033;Swiping Up

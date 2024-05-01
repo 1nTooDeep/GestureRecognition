@@ -12,7 +12,6 @@
         "Thumb Up",
         "Thumb down",
         "Stop Sign",
-        "Drumming Fingers",
         "Doing other things",
         "No gesture"
     ],
@@ -24,12 +23,12 @@
         "test_data_csv": "/home/weii/Workspace/GestureRecognition/csv/test-answers.csv",
         "validation_data_csv": "/home/weii/Workspace/GestureRecognition/csv/validation.csv"
     },
-    "num_classes": 15,
+    "num_classes": 14,
     "torch_config": {
-        "batch_size": 24,
+        "batch_size": 48,
         "num_epochs": 50,
         "shuffle": "True",
-        "lr": 7e-05,
+        "lr": 3e-04,
         "weight_decay": 1e-6,
         "momentum": 0.9,
         "num_workers": 12,

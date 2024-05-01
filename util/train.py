@@ -22,11 +22,12 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
     model.to(DEVICE)
     # 优化器和损失函数配置
     optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=50)
     loss_fn = nn.CrossEntropyLoss()
     # 模型进入训练模式
     model.train()
     # 初始化统计变量
-    
+    # time.sleep(1000)
     for epoch in range(current_epoch,num_epochs):
         # 训练过程
         logger.info(f'In epoch: {epoch}')
@@ -52,7 +53,7 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
             loss.backward()
             # 参数更新
             optimizer.step()
-
+            scheduler.step()
             # 更新统计变量
             loss_value = loss.item()
             total_loss += loss_value * inputs.size(0)
@@ -75,9 +76,10 @@ def train(model,current_epoch, num_epochs, lr, weight_decay, trainLoader, valida
                     [epoch, i, avg_loss, avg_acc, avg_batch_time]
                 ]
                 table_str = tabulate(table_data, headers="firstrow", floatfmt=".4f")
-                logger.info(f"\n{predicted}\n{labels}")
+                print(f"\n{predicted}\n{labels}")
                 logger.info("\n" + table_str)
                 batch_times.clear()  # 清空已记录的批次耗时列表，准备记录下一组批次耗时
+            # break
         torch.save(model.state_dict(),
                checkpointpath + f'checkpoint_{epoch}.pth')
         logger.info(f"Save model in:{checkpointpath + f'checkpoint_{epoch}.pth'}")

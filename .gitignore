@@ -9,6 +9,7 @@ gesture/*
 log/
 scriptmodel/*
 scriptmodel/
+image/
 
 *.log
 *.ipynb

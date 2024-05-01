@@ -1,6 +1,6 @@
 import torch.utils.data.distributed
 import torch.utils.data.distributed
-from model import Timesformer
+from model import Timesformer,C3D
 import torch
 from torch.utils.mobile_optimizer import optimize_for_mobile
 
@@ -9,8 +9,8 @@ if __name__ == "__main__":
     device = torch.device('cpu')
     model_pt = 'C3D.pt'
 
-    model = Timesformer()
-    model.load_state_dict(torch.load('./checkpoints/timesformer-15/checkpoint_47.pth', map_location=device))
+    model = C3D()
+    model.load_state_dict(torch.load('checkpoints/C3D/checkpoint_10.pth', map_location=device))
 
 
     model.to(device)
@@ -20,5 +20,5 @@ if __name__ == "__main__":
 
     traced_script_module = torch.jit.trace(model, input_tensor.to(torch.float32))
     traced_script_module_optimized = optimize_for_mobile(traced_script_module)
-    traced_script_module_optimized._save_for_lite_interpreter("./scriptmodel/model.ptl")
+    traced_script_module_optimized._save_for_lite_interpreter("./scriptmodel/C3D.ptl")
 

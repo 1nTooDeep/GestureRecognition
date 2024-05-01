@@ -1,9 +1,8 @@
 import json
 
 class Config():
-
     def __init__(self, *args, **kwargs):
-        self.config = json.load(open('config.json', 'r'))
+        self.config = dict(json.load(open('../config.json', 'r')))
         self.label_mapping = {
             'Sliding Two Fingers Up': 0,
             'Sliding Two Fingers Left': 1,
@@ -17,7 +16,9 @@ class Config():
             'Thumb Up': 9,
             'Thumb Down': 10,
             'Stop Sign': 11,
-            'Drumming Fingers': 12,
-            'Doing other things': 13,
-            'No gesture': 14
+            'Doing other things': 12,
+            'No gesture': 13
         }
+
+    def __getitem__(self, item):
+        return self.config[item]

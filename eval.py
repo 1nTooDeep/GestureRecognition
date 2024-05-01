@@ -22,9 +22,9 @@ if __name__ == '__main__':
     print(f"Using device : {DEVICE}")
     config = Config()
     batch_size = 64
-    checkpointpath = "/home/weii/Workspace/GestureRecognition/checkpoints/timesformer-15/"
+    checkpointpath = "/home/weii/Workspace/GestureRecognition/checkpoints/timesformer-15-old/"
     num_workers = 12
-    model_path = '/home/weii/Workspace/GestureRecognition/checkpoints/timesformer-15/checkpoint_49.pth'
+    model_path = './checkpoints/timesformer-15-old/checkpoint_30.pth'
     model.load_state_dict(torch.load(model_path))
     print(f"Loading {model_path}.")
 

@@ -38,9 +38,12 @@ def eval(model, dataLoader, DEVICE, logger):
         for input, labels in dataLoader:
             input, labels = input.to(DEVICE), labels.to(DEVICE)
             output = model(input,labels)
+
             prob = torch.softmax(output.logits,dim=1)
             _, predicted = torch.max(prob, 1)
+
             _, top_k_indices = torch.topk(prob, k=k, dim=1)
+
             correct_top5 = (top_k_indices == labels.unsqueeze(1)).any(dim=1)
             correct_5 += torch.sum(correct_top5)
             total += labels.size(0)
@@ -54,7 +57,6 @@ def eval(model, dataLoader, DEVICE, logger):
     precision = precision_score(y_true, y_pred,average="macro")
     f1 = f1_score(y_true, y_pred,average="macro")
 
-    cm = confusion_matrix(y_true, y_pred,labels=[i for i in range(15)])
 
     # 使用 tabulate 输出指标
     headers = ["Metric", "Value"]
@@ -67,11 +69,7 @@ def eval(model, dataLoader, DEVICE, logger):
     ]
     if logger is None:
         print("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
-        print("\nConfusion Matrix:")
-        print("\n"+tabulate(cm, headers=["True Label", "Predicted Label"], tablefmt="grid"))
     else:
         logger.info("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
-        logger.info("\nConfusion Matrix:")
-        logger.info("\n"+tabulate(cm, headers=[i for i in range(15)], tablefmt="grid"))
     # 返回计算结果
-    return accuracy_1, accuracy_5, recall, precision, f1, cm
+    return accuracy_1, accuracy_5, recall, precision, f1
