@@ -2,7 +2,7 @@ import json
 
 class Config():
     def __init__(self, *args, **kwargs):
-        self.config = dict(json.load(open('../config.json', 'r')))
+        self.config = dict(json.load(open('/home/weii/Workspace/GestureRecognition/config.json', 'r')))
         self.label_mapping = {
             'Sliding Two Fingers Up': 0,
             'Sliding Two Fingers Left': 1,

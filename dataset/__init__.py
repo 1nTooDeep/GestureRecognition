@@ -5,3 +5,7 @@ ALL = [
     "prepare_datasets",
     "GestureDataSet"
 ]
+
+
+def prepare_no_gabor_datasets():
+    return None

@@ -15,7 +15,6 @@ class RCNN(nn.Module):
             nn.MaxPool2d(kernel_size=2),
             nn.Flatten(start_dim=1),
             nn.GRU(input_size=25088, hidden_size=256, num_layers=2, batch_first=True),
-
         )
         self.classifier = nn.Sequential(
             nn.Linear(256, num_classes),

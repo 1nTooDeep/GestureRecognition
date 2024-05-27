@@ -26,7 +26,7 @@ if __name__ == '__main__':
     log.setLevel(logging.INFO)
     time = str(datetime.time(datetime.now()))[:8]
     time = time.replace(':','_')
-    file_handler = logging.FileHandler(f'./log/C3D_{time}.log')
+    file_handler = logging.FileHandler(f'/home/weii/Workspace/GestureRecognition/log/C3D_{time}.log')
     console_handler = logging.StreamHandler()
     file_handler.setLevel(logging.INFO)
     file_handler.setLevel(logging.DEBUG)

@@ -21,14 +21,17 @@ def train(model, current_epoch, num_epochs, lr, weight_decay, trainLoader, valid
     - LOG_INTERVAL: 日志记录间隔，默认为200批次
     """
     # 设备配置
+    global i
     model.to(DEVICE)
     # 优化器和损失函数配置
     optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
-    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=30)
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=25)
     # 模型进入训练模式
     model.train()
-    # 初始化统计变量
 
+    # 初始化统计变量
+    best_epoch = 0
+    best_acc = 0.0
     for epoch in range(current_epoch, num_epochs):
         # 训练过程
         logger.info(f'In epoch: {epoch}')
@@ -74,12 +77,25 @@ def train(model, current_epoch, num_epochs, lr, weight_decay, trainLoader, valid
                 ]
                 table_str = tabulate(table_data, headers="firstrow", floatfmt=".4f")
                 print(f"\n{predicted}\n{labels}")
-                logger.info("\n" + table_str)
+                print("\n" + table_str)
+                time.sleep(30)
                 batch_times.clear()  # 清空已记录的批次耗时列表，准备记录下一组批次耗时
+
+        avg_loss = total_loss / num_samples
+        avg_acc = correct_predictions / num_samples * 100
+        avg_batch_time = sum(batch_times) / len(batch_times)
+        table_data = [
+            ["epoch", "Batch", "Loss", "Accuracy", "Avg Batch Time (s)"],
+            [epoch, i, avg_loss, avg_acc, avg_batch_time]
+        ]
+        table_str = tabulate(table_data, headers="firstrow", floatfmt=".4f")
+        logger.info("\n" + table_str)
+        batch_times.clear()  # 清空已记录的批次耗时列表，准备记录下一组批次耗时
         torch.save(model.state_dict(),
                    checkpointpath + f'checkpoint_{epoch}.pth')
         logger.info(f"Save model in:{checkpointpath + f'checkpoint_{epoch}.pth'}")
-        eval(model, validationLoader, DEVICE, logger)
+        acc_1, acc_5, total_loss, recall, precision, f1 = eval(model, validationLoader, DEVICE, logger)
+        best_epoch = epoch if acc_1 > best_acc else best_epoch
         torch.cuda.empty_cache()
-        # cold down temp
-        time.sleep(60)
+        logger.info(acc_1, acc_5, total_loss, recall, precision, f1)
+    return best_epoch

@@ -2,6 +2,8 @@ from sklearn.metrics import recall_score, precision_score, f1_score, confusion_m
 from tabulate import tabulate
 import torch
 import logging
+
+
 def top5_eval(model, device, dataloader):
     model.to(device)
     model.eval()
@@ -10,8 +12,8 @@ def top5_eval(model, device, dataloader):
     num = 0
     k = 5
     with torch.no_grad():
-        for data,labels in dataloader:
-            data, labels = data.to(device),labels.to(device)
+        for data, labels in dataloader:
+            data, labels = data.to(device), labels.to(device)
             output = model(data.to(torch.float32))
             probs = torch.softmax(output, dim=1)
 
@@ -23,23 +25,29 @@ def top5_eval(model, device, dataloader):
 
             acc_top_k += torch.sum(correct_top5)
             num += len(data)
-            
+
     return correct_predictions / num, acc_top_k / num
+
+
 def eval(model, dataLoader, DEVICE, logger):
     model.to(DEVICE)
     model.eval()
     total = 0
     correct = 0
-    correct_5 = 0 
+    correct_5 = 0
     k = 5
+    total_loss = 0
+    i = 0
     y_true = []
     y_pred = []
     with torch.no_grad():
         for input, labels in dataLoader:
             input, labels = input.to(DEVICE), labels.to(DEVICE)
-            output = model(input,labels)
-
-            prob = torch.softmax(output.logits,dim=1)
+            output = model(input, labels)
+            loss = output.loss
+            total_loss += loss.item()
+            i += 1
+            prob = torch.softmax(output.logits, dim=1)
             _, predicted = torch.max(prob, 1)
 
             _, top_k_indices = torch.topk(prob, k=k, dim=1)
@@ -51,25 +59,26 @@ def eval(model, dataLoader, DEVICE, logger):
             y_true.extend(labels.tolist())
             y_pred.extend(predicted.tolist())
 
-    accuracy_1 = correct / total
+    accuracy_1 = correct.real / total
     accuracy_5 = correct_5 / total
-    recall = recall_score(y_true, y_pred,average="macro")
-    precision = precision_score(y_true, y_pred,average="macro")
-    f1 = f1_score(y_true, y_pred,average="macro")
-
+    total_loss = total_loss / i
+    recall = recall_score(y_true, y_pred, average="macro")
+    precision = precision_score(y_true, y_pred, average="macro")
+    f1 = f1_score(y_true, y_pred, average="macro")
 
     # 使用 tabulate 输出指标
     headers = ["Metric", "Value"]
     data = [
         ("Top1 Accuracy", accuracy_1),
         ("Top5 Accuracy", accuracy_5),
+        ("Loss", total_loss),
         ("Recall", recall),
         ("Precision", precision),
         ("F1 Score", f1),
     ]
     if logger is None:
-        print("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
+        print("\n" + tabulate(data, headers=headers, tablefmt="pretty"))
     else:
-        logger.info("\n"+tabulate(data, headers=headers, tablefmt="pretty"))
+        logger.info("\n" + tabulate(data, headers=headers, tablefmt="pretty"))
     # 返回计算结果
-    return accuracy_1, accuracy_5, recall, precision, f1
+    return accuracy_1.real, accuracy_5, total_loss, recall, precision, f1
